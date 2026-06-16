@@ -26,3 +26,5 @@ Thumbs.db
 
 # Node (if used for tooling)
 node_modules/
+
+**/*.quarto_ipynb

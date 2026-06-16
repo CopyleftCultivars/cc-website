@@ -1,7 +1,73 @@
 ---
 title: "Copyleft Cultivars"
+pagetitle: "Copyleft Cultivars — A Global Movement"
+toc: false
+about:
+  template: jolla
+  image: images/logo.png
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/copyleftcultivars/
+    - icon: discord
+      text: Discord
+      href: https://discord.gg/jFcW6ZrK
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/copyleft-cultivars/
 ---
 
-This is a Quarto website.
+### A Global Movement
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Bringing forth change through innovative collaboration.
+
+---
+
+## Support Our Mission
+
+We protect, publish, and preserve vulnerable plants — using copyleft, research,
+and education. To date we are 100% crowdfunded and rely on people like you to
+make this work possible.
+
+[Donate Now](https://www.patreon.com/CopyleftCultivarsNonprofit){.btn .btn-primary role="button"}
+
+## Subscribe
+
+Sign up to receive updates and learn more about our movement.
+
+[Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform){.btn .btn-outline-primary role="button"}
+
+## Explore
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### [About](about.qmd)
+Our mission and the community commons we are building for vulnerable plants.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Preservation](preservation.qmd)
+Preservation through protection, community art, and the Freedom Bag Tag.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Community](community.qmd)
+Initiatives, tools, and upcoming events bringing our community together.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [FAQ](faq.qmd)
+Answers about copyleft, open-source plants, and how protection works.
+:::
+
+:::
+
+## Contact Us
+
+[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com)
+
+[Contact Us](mailto:copyleftcultivars@gmail.com){.btn .btn-outline-primary role="button"}

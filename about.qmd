@@ -2,4 +2,49 @@
 title: "About"
 ---
 
-About this site
+## Our Mission
+
+**Protect, publish, and preserve vulnerable plants, using copyleft, research, and education.**
+
+## A Community Commons for Vulnerable Plants
+
+We are creating a community commons for vulnerable plants. The community commons
+approach acts as an ecosystem where each part of the community is benefited by the
+work of the whole, and thereby the community gains protections and resources that
+would be impossible separately. This approach is fostered by, and its users
+protected by, the nonprofit.
+
+We are creating this community commons system for the planet. Whether you come
+from the agricultural community, academia, the plant medicine community,
+conservation and environmental stewardship actions, or emerging markets, Copyleft
+Cultivars welcomes you.
+
+## Three Public Goods
+
+Our community is oriented around the protection and promotion of three public
+goods: **plant genetics, biodiversity, and cultural autonomy.**
+
+We view these public goods as intersectionally related, reifying each other and
+working in concert as foundational pillars to create a resilient ecology. Plant
+genetics are contested as public goods primarily through the dominant intellectual
+property system, which allows for the privatization and exclusive ownership of
+plant genetics under certain circumstances, but are historical public goods across
+nearly all cultures.
+
+Biodiversity is widely recognized as a public good, but faces a classic
+tragedy-of-the-commons market failure driven by a centralizing and homogenizing
+suite of trade rules that can be broadly characterized as neoliberal. We view
+cultural autonomy as connected to biodiversity, but identify it as a discrete
+public good because of its connection to other political public goods, such as
+human rights and freedom.
+
+Our community supports each of these public goods through hacks into the
+intellectual property system, adopting biomimetic approaches to intellectual
+property licensing rooted in open-source, copyleft/patentleft, and "ethical IP"
+practices.
+
+---
+
+Except where otherwise noted, all works and content on this site are licensed
+under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) +
+[Copyleft Cultivars commercial rights and responsibilities](https://docs.google.com/document/d/1Gd6HGxs9KnS8nBdjXq5GLf46l6HCpr1xTKfTaF2yfrA/edit?usp=sharing).

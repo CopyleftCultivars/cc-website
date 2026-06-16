@@ -1,0 +1,23 @@
+color:
+  palette:
+    forest: "#2e5d34"
+    leaf: "#4a8b3b"
+    moss: "#7aa874"
+    cream: "#f6f4ec"
+    bark: "#3d3a2f"
+  primary: forest
+  secondary: leaf
+  background: cream
+  foreground: bark
+
+typography:
+  fonts:
+    - family: Lato
+      source: google
+    - family: Merriweather
+      source: google
+  base: Lato
+  headings:
+    family: Merriweather
+    weight: 700
+    color: forest

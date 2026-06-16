@@ -1,13 +1,65 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Copyleft Cultivars"
+  description: "Protect, publish, and preserve vulnerable plants — using copyleft, research, and education."
   navbar:
+    logo: images/logo.png
+    title: "Copyleft Cultivars"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: preservation.qmd
+        text: Preservation
+      - href: community.qmd
+        text: Community
+      - href: faq.qmd
+        text: FAQ
+      - href: support.qmd
+        text: Support
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/copyleftcultivars/
+        aria-label: Instagram
+      - icon: discord
+        href: https://discord.gg/jFcW6ZrK
+        aria-label: Discord
+      - icon: youtube
+        href: https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug
+        aria-label: YouTube
+      - icon: linkedin
+        href: https://www.linkedin.com/company/copyleft-cultivars/
+        aria-label: LinkedIn
+  page-footer:
+    border: true
+    left: |
+      Copyright © 2025 Copyleft Cultivars.
+      Except where otherwise noted, content is licensed under
+      [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+    center:
+      - text: "Contact"
+        href: mailto:copyleftcultivars@gmail.com
+      - text: "Donate"
+        href: https://www.patreon.com/CopyleftCultivarsNonprofit
+      - text: "Subscribe"
+        href: https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/copyleftcultivars/
+        aria-label: Instagram
+      - icon: discord
+        href: https://discord.gg/jFcW6ZrK
+        aria-label: Discord
+      - icon: youtube
+        href: https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug
+        aria-label: YouTube
+      - icon: linkedin
+        href: https://www.linkedin.com/company/copyleft-cultivars/
+        aria-label: LinkedIn
 
 format:
   html:
@@ -16,6 +68,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true
 
 
 

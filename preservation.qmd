@@ -1,0 +1,66 @@
+---
+title: "Preservation"
+---
+
+# Preservation Through Protection
+
+We are a community of plant breeders, cultivators, researchers, Indigenous
+Peoples, educators, consumers, creators, and artists. We are especially interested
+in protecting plants as a public good and supporting an economy and commons that
+can interface diverse communities with the broader genomics, pharmaceutical, and
+food production economies.
+
+We are alarmed by the rapid decrease in biodiversity across the planet and believe
+that urgent intervention must be made to promote a sustainable, biodiverse, and
+resilient ecology.
+
+# Preservation Through Community Art
+
+## ~CommuniTree~
+
+We are collaborating with YOU to plant and grow the CommuniTree: a visual display
+of the Copyleft community's breeding artistry. Through compiling photos of the
+leaves of Freedom Bag Tag protected cultivars, we will interconnect them into a
+tree image that will showcase the diversity and beauty of Copyleft protected
+open-source cultivars, and allow breeders to receive credit publicly (if they
+would like). This project is an exciting fusion of the artistic skills of
+farmer-breeders, community open art, and open science!
+
+*Upload function coming soon.*
+
+# Freedom Bag Tag
+
+We are ecstatic to release the first ever community-created Copyleft bag tag that
+assures freedom of use for cultivars and the people who make and use them. It also
+assures that any genetic data sequenced from bag tag labeled lines will be
+published publicly for the benefit of everyone in the community.
+
+Simply print these terms to add to your seed bags, or print them directly on your
+own seed packet labels before release of the seeds. We will soon be offering
+premade stickers to place on any package of seeds that you have created. Seeds must
+be your own original work. Freedom bag tag text must be visible on seed packets to
+assure protection.
+
+# Disclaimer
+
+::: {.callout-note appearance="simple"}
+The use of this license is subject to the following terms and conditions. No
+attorney-client relationships or fiduciary duties are assumed, accepted, or implied
+by Copyleft Cultivars or any of its contributors, members, or participants. The
+Copyleft bag tag license and any statements about the license or its enforceability
+must not be construed as representations, warranties, guarantees, promises, or legal
+advice, and they must not be relied upon by any person as a basis for decision
+making. The user should consult legal counsel for any legal opinion on the use of
+the license and how it may impact the user's rights. The user agrees to indemnify
+and hold Copyleft Cultivars harmless from any and all claims, damages, or expenses
+arising from the use of the license or the user's licensed material. By using the
+license, the user agrees to be bound by the terms and conditions of this disclaimer.
+If the user does not agree to the terms and conditions of this disclaimer, they must
+not use the license.
+:::
+
+---
+
+Except where otherwise noted, all works and content on this site are licensed
+under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) +
+[Copyleft Cultivars commercial rights and responsibilities](https://docs.google.com/document/d/1Gd6HGxs9KnS8nBdjXq5GLf46l6HCpr1xTKfTaF2yfrA/edit?usp=sharing).
