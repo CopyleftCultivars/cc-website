@@ -1,0 +1,36 @@
+/* Copyleft Cultivars site styles */
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+/* Hero / about block on the home page */
+.quarto-title-block .quarto-title .title {
+  font-weight: 700;
+}
+
+/* Rounded images (used for the community banner) */
+img.rounded {
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1.5rem;
+}
+
+/* Give call-to-action buttons a little breathing room */
+.btn {
+  margin: 0.25rem 0.5rem 0.25rem 0;
+}
+
+/* Spacing between the explore grid cards */
+.grid h3 {
+  margin-top: 0;
+}
+
+/* FAQ headings as lightweight section dividers */
+#quarto-document-content h2 {
+  border-top: 1px solid var(--bs-border-color, #dee2e6);
+  padding-top: 1.25rem;
+  margin-top: 2rem;
+}
+
