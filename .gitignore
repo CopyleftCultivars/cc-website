@@ -1,0 +1,28 @@
+# Quarto
+/.quarto/
+/_site/
+/_book/
+/_freeze/
+*_files/
+*_cache/
+
+# Quarto site output (default project type)
+/site_libs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.Renviron
+.Rproj.user/
+.Rhistory
+.RData
+
+# Node (if used for tooling)
+node_modules/
