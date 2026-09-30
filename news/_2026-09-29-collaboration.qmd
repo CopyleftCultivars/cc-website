@@ -1,0 +1,44 @@
+---
+title: "Copyleft Cultivars announces a collaboration with [PARTNER NAME]"
+description: "One-line summary of the collaboration — what it is and why it matters. Keep it under about 160 characters."
+date: "2026-09-29"
+categories: [Announcement]
+---
+
+::: {.callout-warning title="Draft — not ready to publish"}
+This post is a placeholder. Replace every `[BRACKETED]` item and delete this
+callout before publishing. Nothing here has been announced yet.
+:::
+
+We are pleased to announce that Copyleft Cultivars is partnering with
+**[PARTNER NAME]** on **[SHORT DESCRIPTION OF THE COLLABORATION]**.
+
+## What this means
+
+[Two or three sentences on what the collaboration actually does. Be concrete: what
+changes for breeders, growers, or communities as a result? Avoid mission-statement
+language here — say what will happen.]
+
+## Why we're doing it
+
+[One paragraph of context. What problem does this address, and why is this partner
+the right one to address it with?]
+
+## What's next
+
+[Concrete next steps and rough timing. If there is a public way to take part —
+a form, a mailing list, an event — link it here.]
+
+> [Optional quote from a partner or from Copyleft Cultivars. Attribute it with a
+> name and role.]
+
+## Learn more
+
+- [Link to the partner's site](#)
+- [Link to the relevant project or document](#)
+- Questions? Email [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
+
+---
+
+*Copyleft Cultivars protects, publishes, and preserves vulnerable plants using
+copyleft, research, and education.*

@@ -24,8 +24,8 @@ Cultivars welcomes you.
 Our community is oriented around the protection and promotion of three public
 goods: **plant genetics, biodiversity, and cultural autonomy.**
 
-We view these public goods as intersectionally related, reifying each other and
-working in concert as foundational pillars to create a resilient ecology. Plant
+We view these public goods as interconnected, reifying each other and working in
+concert as foundational pillars to create a resilient ecology. Plant
 genetics are contested as public goods primarily through the dominant intellectual
 property system, which allows for the privatization and exclusive ownership of
 plant genetics under certain circumstances, but are historical public goods across
@@ -35,8 +35,8 @@ Biodiversity is widely recognized as a public good, but faces a classic
 tragedy-of-the-commons market failure driven by a centralizing and homogenizing
 suite of trade rules that can be broadly characterized as neoliberal. We view
 cultural autonomy as connected to biodiversity, but identify it as a discrete
-public good because of its connection to other political public goods, such as
-human rights and freedom.
+public good because of its connection to other public goods, such as human rights and
+freedom.
 
 Our community supports each of these public goods through hacks into the
 intellectual property system, adopting biomimetic approaches to intellectual

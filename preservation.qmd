@@ -7,7 +7,7 @@ title: "Preservation"
 We are a community of plant breeders, cultivators, researchers, Indigenous
 Peoples, educators, consumers, creators, and artists. We are especially interested
 in protecting plants as a public good and supporting an economy and commons that
-can interface diverse communities with the broader genomics, pharmaceutical, and
+can interface different communities with the broader genomics, pharmaceutical, and
 food production economies.
 
 We are alarmed by the rapid decrease in biodiversity across the planet and believe
@@ -21,7 +21,7 @@ resilient ecology.
 We are collaborating with YOU to plant and grow the CommuniTree: a visual display
 of the Copyleft community's breeding artistry. Through compiling photos of the
 leaves of Freedom Bag Tag protected cultivars, we will interconnect them into a
-tree image that will showcase the diversity and beauty of Copyleft protected
+tree image that will showcase the variety and beauty of Copyleft protected
 open-source cultivars, and allow breeders to receive credit publicly (if they
 would like). This project is an exciting fusion of the artistic skills of
 farmer-breeders, community open art, and open science!

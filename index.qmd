@@ -5,19 +5,6 @@ toc: false
 about:
   template: jolla
   image: images/logo.png
-  links:
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/copyleftcultivars/
-    - icon: discord
-      text: Discord
-      href: https://discord.gg/jFcW6ZrK
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/company/copyleft-cultivars/
 ---
 
 ### A Global Movement
@@ -55,8 +42,19 @@ Preservation through protection, community art, and the Freedom Bag Tag.
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### [Community](community.qmd)
-Initiatives, tools, and upcoming events bringing our community together.
+### [Initiatives](initiatives.qmd)
+Programs and tools we build with the community, from Indigenous-led stewardship
+to open-source agricultural AI.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Events](events.qmd)
+Upcoming gatherings and an archive of our past events.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [News](news.qmd)
+Announcements, collaborations, and milestones.
 :::
 
 ::: {.g-col-12 .g-col-md-6}

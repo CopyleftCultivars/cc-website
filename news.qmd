@@ -1,0 +1,34 @@
+---
+title: "News"
+pagetitle: "News — Copyleft Cultivars"
+toc: false
+---
+
+Announcements, collaborations, and milestones from Copyleft Cultivars. For
+upcoming and past gatherings, see [Events](events.qmd).
+
+## Announcements
+
+::: {.callout-note appearance="simple"}
+**Nothing published yet.** New announcements appear here first — [subscribe to our
+email updates](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform)
+to hear about them.
+:::
+
+<!--
+  Publishing an announcement takes two steps.
+
+  1. Take the post out of draft by renaming it:
+
+       mv news/_my-post.qmd news/my-post.qmd
+
+  2. Replace the callout above with an entry in this format:
+
+       ### [Title of the announcement](news/my-post.qmd)
+
+       *Month D, YYYY* — one-line summary of the announcement.
+
+  Keep entries in reverse chronological order, newest first.
+  Files in news/ whose names start with an underscore are drafts: Quarto
+  ignores them completely, so they never build or ship.
+-->

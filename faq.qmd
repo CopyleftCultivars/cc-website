@@ -19,7 +19,7 @@ by having an open collaborative approach to using those rights.
 The Open Source Plants Movement is a new wave of OpenBio movement which brings
 together the traditional open-source sentiments of strength through community,
 mutual aid, and freedom, with important plant-related issues such as farmer rights,
-indigenous perspectives, and the realities of plant breeding. The OpenBio movement
+Indigenous perspectives, and the realities of plant breeding. The OpenBio movement
 came out of the open-source software movement and has gotten global recognition in
 recent years.
 
@@ -58,7 +58,7 @@ the benefit of all members of the ecosystem.
 We do this in a way which avoids the single point of failure issue of fragility in
 privatized pockets of information, instead championing open freedom-assured
 community sharing of information and material access, thereby improving long-term
-survival and proliferation of important diverse genetic material and plant medicine
+survival and proliferation of important varied genetic material and plant medicine
 information.
 
 ## How does the community benefit from our Copyleft approach?
@@ -179,12 +179,12 @@ intellectual property protections, so long as they refrain from perpetrating
 predatory litigation against the copyleft community at-large, and respect the
 freedom-assuring terms of use when used in combination with the copyleft system.
 
-Trademarking of "strain names," for example, may offer additional protection and
+Trademarking of "cultivar names," for example, may offer additional protection and
 economic benefits for breeders and cultivators, while at the same time one could also
-register the genetics of that cultivar/strain in the copyleft cannabis system here.
+register the genetics of that cultivar in the copyleft system.
 
 We hope to create a community coalition, an alliance of sorts, between the Copyleft
-Cannabis Project, other open-source projects, NFT systems, defensive patent holders,
+Cultivars Project, other open-source projects, NFT systems, defensive patent holders,
 and PVPA rights holders in the medicinal plants space that will together support each
 other and prevent in-fighting, thereby creating a robust backbone for community
 defense on a larger scale.
@@ -230,23 +230,21 @@ Copyleft terms/license/protection, and prior to distribution should be logged in
 Copyleft system. Because the parentage is already genetic-tested and published, the
 submission of genetic sequencing data may not be necessary, but the opportunity to do
 genetic sequencing should be made available to the Copyleft Cultivars organization for
-publication. We are in discussions with cannabis genetics experts to determine how many
+publication. We are in discussions with plant genetics experts to determine how many
 generations from a databased parent breeders may go without needing to again test the
 genetics and submit them to the database to continue the protections and contribute to
 scientific advancement.
 
-## How does this approach protect from issues seen previously with other groups' public fiascos related to genomic galaxy building?
+## Who is behind Copyleft Cultivars?
 
-Unlike other groups which have caved under profit-motive when creating an open genetic
-nexus for cannabis, we are completely free of any direct founding influence from any
-for-profit company.
-
-We are a small group of individual community members, many of us from the medical
-marijuana movement, driven by the desire to help protect the medicinal plants and
+We are a small group of individual community members, many of us from the plant
+medicine movement, driven by the desire to help protect the medicinal plants and
 medicinal plant communities which have helped us in so many ways. We are growers and
-breeders who started this project because we love this plant and the people who work
-with it. We love freedom and we love the powerful community that can be created in
+breeders who started this project because we love these plants and the people who work
+with them. We love freedom and we love the powerful community that can be created in
 spaces of assured freedom.
+
+We are completely free of any direct founding influence from any for-profit company.
 
 ## Why a nonprofit?
 
@@ -281,7 +279,7 @@ copyleft-protected cultivars/strains.
 ## What will be the notice for Copyleft Cultivars protected seeds?
 
 There will be a bag tag (use license label) for each license. The core protection
-license, CCGL (Copyleft Cannabis Genetic-backed License), has a bag tag in its main
+license, CCGL (Copyleft Cultivar Genetics License), has a bag tag in its main
 text. We also have a community-created stand-alone bag tag that carries some but not
 all of the benefits and protections of the CCGL and is much less solidly enforceable.
 
@@ -336,11 +334,10 @@ company who would like to be more directly involved, please email
 ## How can I contribute skills or funds to make this happen?
 
 If you have skills you'd like to contribute, or funds, to Copyleft Cultivars, please
-email us at [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com) or join
-the [Discord](https://discord.gg/jFcW6ZrK). We are especially looking for programmers
-and attorneys with experience working with Creative Commons or plant IP, and
-experienced nonprofit professionals. We very much appreciate the help because we are a
-small but dedicated of-the-community-for-the-community team.
+email us at [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com). We are
+especially looking for programmers and attorneys with experience working with Creative
+Commons or plant IP, and experienced nonprofit professionals. We very much appreciate
+the help because we are a small but dedicated of-the-community-for-the-community team.
 
 ---
 

@@ -27,4 +27,8 @@ Thumbs.db
 # Node (if used for tooling)
 node_modules/
 
+# Local reference material (not published, not committed)
+NAS_342*.pdf
+_private/
+
 **/*.quarto_ipynb

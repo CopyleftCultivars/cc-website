@@ -1,8 +1,11 @@
 ---
-title: "Community"
+title: "Initiatives"
+pagetitle: "Initiatives — Copyleft Cultivars"
 ---
 
-![](images/hero.png){fig-alt="Volunteer with us — Copyleft Cultivars" .rounded}
+Programs and tools built with our community. Each one works toward the same goal:
+keeping the genetics, knowledge, and practices that sustain vulnerable plants in the
+hands of the people who care for them.
 
 # Regenerative Relations Initiative
 
@@ -25,7 +28,6 @@ If you have any questions, please reach out to us at
 [regenerativerelations@gmail.com](mailto:regenerativerelations@gmail.com).
 
 [Inaugural Cohort Announcement](https://docs.google.com/document/d/1xlIvfG9_6Mpz1KFiu3_ikssNfVE6XoWD0zvmQDLC85U/edit){.btn .btn-outline-primary role="button"}
-[Informational Webinar](https://forms.gle/gjwNotUatkvP8U7h8){.btn .btn-outline-primary role="button"}
 
 # Natural Farming Fertilizer Assistant Chatbot
 
@@ -49,40 +51,8 @@ View our open-source collections, spaces, models, and datasets.
 
 [Hugging Face Hub](https://huggingface.co/CopyleftCultivars){.btn .btn-outline-primary role="button"}
 
-# Upcoming Events
-
-## Regenerative Relations Initiative Informational Webinar
-
-- **Date:** January 20, 2025
-- **Time:** 6 pm – 7 pm PST
-- **Location:** Zoom (link to be sent upon registration)
-
-Indigenous Knowledge Systems have sustained biodiverse ecosystems for millennia
-through intentional stewardship and deep place-based ecological relationships. The
-Regenerative Relations Initiative recognizes that Indigenous leadership in food
-sovereignty, data sovereignty, and land stewardship offers proven pathways toward
-ecological resilience and cultural revitalization.
-
-[Register](https://forms.gle/gjwNotUatkvP8U7h8){.btn .btn-outline-primary role="button"}
-
-## Free the Seeds
-
-**December 8, 2022 @ 10:30 am PST**
-
-Join us for this first-of-its-kind digital ceremonial release event!
-
-We are excited to release the long-awaited Freedom Bag Tag, a unique and easy-to-use
-label you can put on new seed packs to legally copyleft-protect them as a public good
-and ensure all future users that your seeds have freedom of use.
-
-The Freedom Bag Tag was created over the course of nearly two years, including a very
-lively public collaboration to create the text of this freedom-assuring Bag Tag. This
-is the first step in our mission to make copyleft and open-source protections
-available for the community at large and help us unite together as a community. There
-has never been a more important time for this work.
-
 ---
 
-## Subscribe to Email Updates
-
-[Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform){.btn .btn-primary role="button"}
+Except where otherwise noted, all works and content on this site are licensed
+under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) +
+[Copyleft Cultivars commercial rights and responsibilities](https://docs.google.com/document/d/1Gd6HGxs9KnS8nBdjXq5GLf46l6HCpr1xTKfTaF2yfrA/edit?usp=sharing).

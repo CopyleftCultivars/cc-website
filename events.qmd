@@ -1,0 +1,139 @@
+---
+title: "Events"
+pagetitle: "Events — Copyleft Cultivars"
+toc: false
+---
+
+![](images/hero.png){fig-alt="Copyleft Cultivars community" .rounded}
+
+We gather the community around copyleft, open-source plant genetics, and farmer
+freedom. Upcoming gatherings are listed first; below them is our archive of past
+events, where you can click through the timeline to read what happened.
+
+## Upcoming Events
+
+::: {.callout-note appearance="simple"}
+**No events are scheduled right now.** New events are announced on the
+[News](news.qmd) page and to our email list first —
+[subscribe](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform)
+to hear about the next one.
+:::
+
+<!--
+  To add a planned event, copy the block below, paste it above this comment, and edit the text.
+
+  <div class="event-card">
+    <p class="event-date">March 4, 2027 · 6 pm PST</p>
+    <h3>Event title</h3>
+    <p><strong>Location:</strong> Zoom</p>
+    <p>One or two sentences about the event.</p>
+    <p><a class="btn btn-outline-primary" role="button" href="https://example.com">Register</a></p>
+  </div>
+-->
+
+## Past Events
+
+Click any event in the timeline to read its details.
+
+<div class="events-archive" data-events-archive>
+
+<div class="events-panels">
+
+<article class="event-detail is-active" id="ev-rri-webinar" tabindex="-1">
+<p class="event-date">January 20, 2025 · 6–7 pm PST</p>
+<h3>Regenerative Relations Initiative Informational Webinar</h3>
+<p><strong>Location:</strong> Zoom (link sent upon registration)</p>
+<p>Indigenous Knowledge Systems have sustained biodiverse ecosystems for millennia
+through intentional stewardship and deep place-based ecological relationships. The
+Regenerative Relations Initiative recognizes that Indigenous leadership in food
+sovereignty, data sovereignty, and land stewardship offers proven pathways toward
+ecological resilience and cultural revitalization.</p>
+<p>This session introduced the initiative and answered questions from communities
+interested in the inaugural cohort.</p>
+<p><a class="btn btn-outline-primary" role="button" href="https://docs.google.com/document/d/1xlIvfG9_6Mpz1KFiu3_ikssNfVE6XoWD0zvmQDLC85U/edit">Read the cohort announcement</a></p>
+</article>
+
+<article class="event-detail" id="ev-free-the-seeds" tabindex="-1">
+<p class="event-date">December 8, 2022 · 10:30 am PST</p>
+<h3>Free the Seeds</h3>
+<p><strong>Format:</strong> Digital ceremonial release event</p>
+<p>Join us for this first-of-its-kind digital ceremonial release event!</p>
+<p>We released the long-awaited Freedom Bag Tag, a unique and easy-to-use label you
+can put on new seed packs to legally copyleft-protect them as a public good and
+ensure all future users that your seeds have freedom of use.</p>
+<p>The Freedom Bag Tag was created over the course of nearly two years, including a
+very lively public collaboration to create the text of this freedom-assuring Bag Tag.
+This was the first step in our mission to make copyleft and open-source protections
+available for the community at large and help us unite together as a community.</p>
+<p><a class="btn btn-outline-primary" role="button" href="preservation.qmd">Learn about the Freedom Bag Tag</a></p>
+</article>
+
+</div>
+
+<div class="events-rail" role="region" aria-labelledby="past-events-heading">
+<h3 class="events-rail-title" id="past-events-heading">Past Events</h3>
+<ol class="events-timeline">
+
+<li>
+<button type="button" class="tl-item is-active" data-event="ev-rri-webinar" aria-controls="ev-rri-webinar" aria-expanded="true">
+<span class="tl-dot" aria-hidden="true"></span>
+<span class="tl-date">Jan 20, 2025</span>
+<span class="tl-name">RRI Informational Webinar</span>
+</button>
+</li>
+
+<li>
+<button type="button" class="tl-item" data-event="ev-free-the-seeds" aria-controls="ev-free-the-seeds" aria-expanded="false">
+<span class="tl-dot" aria-hidden="true"></span>
+<span class="tl-date">Dec 8, 2022</span>
+<span class="tl-name">Free the Seeds</span>
+</button>
+</li>
+
+</ol>
+</div>
+
+</div>
+
+<script>
+(function () {
+  var root = document.querySelector("[data-events-archive]");
+  if (!root) return;
+
+  var triggers = root.querySelectorAll(".tl-item");
+  var panels = root.querySelectorAll(".event-detail");
+  if (!triggers.length || !panels.length) return;
+
+  function activate(id) {
+    var found = false;
+    triggers.forEach(function (t) {
+      var on = t.dataset.event === id;
+      if (on) found = true;
+      t.classList.toggle("is-active", on);
+      t.setAttribute("aria-expanded", on ? "true" : "false");
+    });
+    panels.forEach(function (p) {
+      p.classList.toggle("is-active", p.id === id);
+    });
+    return found;
+  }
+
+  triggers.forEach(function (t) {
+    t.addEventListener("click", function () {
+      activate(t.dataset.event);
+    });
+  });
+
+  // Deep link: events.html#ev-free-the-seeds opens that event.
+  var hash = window.location.hash.replace("#", "");
+  if (hash) activate(hash);
+})();
+</script>
+
+---
+
+## Subscribe to Email Updates
+
+Be the first to hear about upcoming events and new announcements.
+
+[Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform){.btn .btn-primary role="button"}

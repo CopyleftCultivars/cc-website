@@ -9,7 +9,7 @@
   font-weight: 700;
 }
 
-/* Rounded images (used for the community banner) */
+/* Rounded images (used for page banners) */
 img.rounded {
   border-radius: 12px;
   max-width: 100%;
@@ -32,5 +32,210 @@ img.rounded {
   border-top: 1px solid var(--bs-border-color, #dee2e6);
   padding-top: 1.25rem;
   margin-top: 2rem;
+}
+
+/* ==========================================================================
+   Events — detail panel beside a scrollable, clickable timeline rail
+   Colors come from the brand theme via --bs-primary-rgb / --bs-body-color-rgb
+   ========================================================================== */
+
+.events-archive {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 2rem;
+  align-items: flex-start;
+  margin: 1.5rem 0 2rem;
+}
+
+/* Quarto switches the page to its own multi-column "page-columns" grid as soon
+   as a document contains raw HTML blocks, tags those blocks with .page-columns /
+   .page-full, and flips <body> to .fullcontent on pages without a sidebar.
+   Those rules outrank anything we write below, so the !important flags here are
+   deliberate: they hand the layout back to .events-archive. */
+body .events-archive.page-columns {
+  display: flex !important;
+  flex-wrap: nowrap;
+  gap: 2rem !important;
+  align-items: flex-start;
+}
+
+body .events-archive.page-columns,
+body .events-archive.page-full {
+  grid-column: body-content-start / body-content-end !important;
+}
+
+/* A top-level raw-HTML event card picks up the same treatment. */
+body .event-card.page-columns {
+  display: block !important;
+}
+
+.events-panels {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.event-detail {
+  display: none;
+}
+
+.event-detail.is-active {
+  display: block;
+}
+
+.event-detail:focus {
+  outline: none;
+}
+
+.event-date {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(var(--bs-body-color-rgb), 0.62);
+  margin: 0 0 0.35rem;
+}
+
+.event-detail h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.event-detail > :last-child {
+  margin-bottom: 0;
+}
+
+/* Upcoming event cards (see the HTML template comment in events.qmd) */
+.event-card {
+  border: 1px solid rgba(var(--bs-primary-rgb), 0.18);
+  border-left: 3px solid rgb(var(--bs-primary-rgb));
+  border-radius: 8px;
+  background: rgba(var(--bs-primary-rgb), 0.03);
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0;
+}
+
+.event-card h3 {
+  margin-top: 0.15rem;
+}
+
+/* Timeline rail */
+.events-rail {
+  flex: 0 0 15rem;
+  min-width: 0;
+  align-self: flex-start;
+  position: sticky;
+  top: 5rem;
+}
+
+.events-rail-title {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(var(--bs-body-color-rgb), 0.62);
+  margin: 0 0 0.5rem;
+}
+
+.events-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 62vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.events-timeline li {
+  position: relative;
+  margin: 0;
+  padding-left: 1.5rem;
+  border-left: 2px solid rgba(var(--bs-primary-rgb), 0.18);
+}
+
+.tl-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-radius: 6px;
+  padding: 0.6rem 0.6rem 0.6rem 0.1rem;
+  color: inherit;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.tl-item:hover {
+  background: rgba(var(--bs-primary-rgb), 0.06);
+}
+
+.tl-item:focus-visible {
+  outline: 2px solid rgb(var(--bs-primary-rgb));
+  outline-offset: 2px;
+}
+
+.tl-dot {
+  position: absolute;
+  left: calc(-0.35rem - 1px);
+  top: 0.7rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background: var(--bs-body-bg, #fff);
+  border: 2px solid rgba(var(--bs-primary-rgb), 0.45);
+  transition: background-color 0.15s ease, border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.tl-item.is-active .tl-dot {
+  background: rgb(var(--bs-primary-rgb));
+  border-color: rgb(var(--bs-primary-rgb));
+  box-shadow: 0 0 0 4px rgba(var(--bs-primary-rgb), 0.16);
+}
+
+.tl-date {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(var(--bs-body-color-rgb), 0.55);
+}
+
+.tl-name {
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  margin-top: 0.1rem;
+}
+
+.tl-item.is-active .tl-name {
+  color: rgb(var(--bs-primary-rgb));
+  font-weight: 600;
+}
+
+@media (max-width: 991px) {
+  .events-archive,
+  body .events-archive.page-columns {
+    flex-direction: column;
+    gap: 1.5rem !important;
+  }
+
+  .events-rail {
+    position: static;
+    order: -1;
+    flex: 1 1 auto;
+    width: 100%;
+  }
+
+  .events-timeline {
+    max-height: 40vh;
+  }
+
+  /* The section heading already says "Past Events" right above the rail. */
+  .events-rail-title {
+    display: none;
+  }
 }
 
