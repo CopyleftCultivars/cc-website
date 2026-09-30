@@ -1,13 +1,13 @@
 ---
 title: "Copyleft Cultivars announces a collaboration with [PARTNER NAME]"
-description: "One-line summary of the collaboration — what it is and why it matters. Keep it under about 160 characters."
+description: "Copyleft Cultivars is announcing a new collaboration. Full details to follow."
 date: "2026-09-29"
-categories: [Announcement]
 ---
 
-::: {.callout-warning title="Draft — not ready to publish"}
-This post is a placeholder. Replace every `[BRACKETED]` item and delete this
-callout before publishing. Nothing here has been announced yet.
+::: {.callout-note appearance="simple"}
+**Placeholder announcement.** The partner name and final details are still being
+confirmed — this post will be updated with the full announcement. Replace every
+`[BRACKETED]` item and delete this callout when the details are ready.
 :::
 
 We are pleased to announce that Copyleft Cultivars is partnering with

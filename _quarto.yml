@@ -5,6 +5,7 @@ project:
 website:
   title: "Copyleft Cultivars"
   description: "Protect, publish, and preserve vulnerable plants — using copyleft, research, and education."
+  favicon: images/logo.png
   navbar:
     logo: images/logo.png
     title: "Copyleft Cultivars"

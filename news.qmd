@@ -9,20 +9,18 @@ upcoming and past gatherings, see [Events](events.qmd).
 
 ## Announcements
 
-::: {.callout-note appearance="simple"}
-**Nothing published yet.** New announcements appear here first — [subscribe to our
-email updates](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform)
-to hear about them.
-:::
+### [Copyleft Cultivars announces a collaboration with [PARTNER NAME]](news/2026-09-29-collaboration.qmd)
+
+*September 29, 2026* — A new collaboration is in the works. Partner and full details to follow.
 
 <!--
-  Publishing an announcement takes two steps.
+  Adding an announcement takes two steps.
 
   1. Take the post out of draft by renaming it:
 
        mv news/_my-post.qmd news/my-post.qmd
 
-  2. Replace the callout above with an entry in this format:
+  2. Add an entry above, in this format:
 
        ### [Title of the announcement](news/my-post.qmd)
 
