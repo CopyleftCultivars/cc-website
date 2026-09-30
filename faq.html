@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.3">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,14 +42,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e44360b8a8db1e130c7792fece1c8032.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-fedc0afa5eed45b88079642ee2c6e752.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e44360b8a8db1e130c7792fece1c8032.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-225f7d4ac5058b213f6e68272b60d4b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-30de9ca48e285bd9979ae6968b4a4bab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-225f7d4ac5058b213f6e68272b60d4b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-94cec6fcfa6b77931a1ac6e8ec87b722.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-fed6ef15b5625fb0ffef71305ead8256.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-94cec6fcfa6b77931a1ac6e8ec87b722.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,8 +117,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Preservation</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community.html"> 
-<span class="menu-text">Community</span></a>
+    <a class="nav-link" href="./initiatives.html"> 
+<span class="menu-text">Initiatives</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./events.html"> 
+<span class="menu-text">Events</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./faq.html" aria-current="page"> 
@@ -124,28 +135,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./support.html"> 
 <span class="menu-text">Support</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/copyleftcultivars/"> <i class="bi bi-instagram" role="img" aria-label="Instagram">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://discord.gg/jFcW6ZrK"> <i class="bi bi-discord" role="img" aria-label="Discord">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug"> <i class="bi bi-youtube" role="img" aria-label="YouTube">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/company/copyleft-cultivars/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
-<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -179,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#what-about-strainsvarietals-which-have-already-been-publicly-released" id="toc-what-about-strainsvarietals-which-have-already-been-publicly-released" class="nav-link" data-scroll-target="#what-about-strainsvarietals-which-have-already-been-publicly-released">What about strains/varietals which have already been publicly released?</a></li>
   <li><a href="#can-you-help-me-with-legal-troubles-involving-non-copylefted-cultivars" id="toc-can-you-help-me-with-legal-troubles-involving-non-copylefted-cultivars" class="nav-link" data-scroll-target="#can-you-help-me-with-legal-troubles-involving-non-copylefted-cultivars">Can you help me with legal troubles involving non-copylefted cultivars?</a></li>
   <li><a href="#if-i-breed-with-a-copyleft-protected-cultivar-what-is-the-ip-status-of-the-offspring" id="toc-if-i-breed-with-a-copyleft-protected-cultivar-what-is-the-ip-status-of-the-offspring" class="nav-link" data-scroll-target="#if-i-breed-with-a-copyleft-protected-cultivar-what-is-the-ip-status-of-the-offspring">If I breed with a Copyleft protected cultivar, what is the IP status of the offspring?</a></li>
-  <li><a href="#how-does-this-approach-protect-from-issues-seen-previously-with-other-groups-public-fiascos-related-to-genomic-galaxy-building" id="toc-how-does-this-approach-protect-from-issues-seen-previously-with-other-groups-public-fiascos-related-to-genomic-galaxy-building" class="nav-link" data-scroll-target="#how-does-this-approach-protect-from-issues-seen-previously-with-other-groups-public-fiascos-related-to-genomic-galaxy-building">How does this approach protect from issues seen previously with other groups’ public fiascos related to genomic galaxy building?</a></li>
+  <li><a href="#who-is-behind-copyleft-cultivars" id="toc-who-is-behind-copyleft-cultivars" class="nav-link" data-scroll-target="#who-is-behind-copyleft-cultivars">Who is behind Copyleft Cultivars?</a></li>
   <li><a href="#why-a-nonprofit" id="toc-why-a-nonprofit" class="nav-link" data-scroll-target="#why-a-nonprofit">Why a nonprofit?</a></li>
   <li><a href="#will-the-copyleft-cultivars-database-ever-be-used-by-the-organization-for-private-breeding-of-any-sort" id="toc-will-the-copyleft-cultivars-database-ever-be-used-by-the-organization-for-private-breeding-of-any-sort" class="nav-link" data-scroll-target="#will-the-copyleft-cultivars-database-ever-be-used-by-the-organization-for-private-breeding-of-any-sort">Will the Copyleft Cultivars database ever be used by the organization for private breeding of any sort?</a></li>
   <li><a href="#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars" id="toc-what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars" class="nav-link" data-scroll-target="#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars">What will Copyleft Cultivars do with the genetic sequences of submitted cultivars?</a></li>
@@ -222,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="what-is-the-open-source-plants-movement" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-the-open-source-plants-movement">What is the Open Source Plants Movement?</h2>
-<p>The Open Source Plants Movement is a new wave of OpenBio movement which brings together the traditional open-source sentiments of strength through community, mutual aid, and freedom, with important plant-related issues such as farmer rights, indigenous perspectives, and the realities of plant breeding. The OpenBio movement came out of the open-source software movement and has gotten global recognition in recent years.</p>
+<p>The Open Source Plants Movement is a new wave of OpenBio movement which brings together the traditional open-source sentiments of strength through community, mutual aid, and freedom, with important plant-related issues such as farmer rights, Indigenous perspectives, and the realities of plant breeding. The OpenBio movement came out of the open-source software movement and has gotten global recognition in recent years.</p>
 </section>
 <section id="how-does-copyleft-apply-to-plant-medicines" class="level2">
 <h2 class="anchored" data-anchor-id="how-does-copyleft-apply-to-plant-medicines">How does Copyleft apply to plant medicines?</h2>
@@ -234,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="how-do-we-help-the-preservation-of-plant-medicine-genetics">How do we help the preservation of plant medicine genetics?</h2>
 <p>In a world which is rapidly changing, the genetics information and history of medicinal plant cultivars/strains is highly threatened. We believe that greater freedom of use and a framework which encourages sharing for mutual benefit leads naturally to a more stable population of important cultivars kept alive through many hands in the community.</p>
 <p>We can encourage this distribution of vital cultivars while we start to protect, document, publish, and make usable the vast array of information about these cultivars being developed around the world, in a way which puts the community and the accessibility of the information front-and-center, accelerating development to the benefit of all members of the ecosystem.</p>
-<p>We do this in a way which avoids the single point of failure issue of fragility in privatized pockets of information, instead championing open freedom-assured community sharing of information and material access, thereby improving long-term survival and proliferation of important diverse genetic material and plant medicine information.</p>
+<p>We do this in a way which avoids the single point of failure issue of fragility in privatized pockets of information, instead championing open freedom-assured community sharing of information and material access, thereby improving long-term survival and proliferation of important varied genetic material and plant medicine information.</p>
 </section>
 <section id="how-does-the-community-benefit-from-our-copyleft-approach" class="level2">
 <h2 class="anchored" data-anchor-id="how-does-the-community-benefit-from-our-copyleft-approach">How does the community benefit from our Copyleft approach?</h2>
@@ -297,8 +286,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="is-copyleft-cultivars-approach-compatible-or-adversarial-with-other-intellectual-property-protections-such-as-trademarking-and-patenting" class="level2">
 <h2 class="anchored" data-anchor-id="is-copyleft-cultivars-approach-compatible-or-adversarial-with-other-intellectual-property-protections-such-as-trademarking-and-patenting">Is Copyleft Cultivars’ approach compatible or adversarial with other intellectual property protections, such as trademarking and patenting?</h2>
 <p>Our Copyleft system is compatible and complementary with most other forms of intellectual property protections, so long as they refrain from perpetrating predatory litigation against the copyleft community at-large, and respect the freedom-assuring terms of use when used in combination with the copyleft system.</p>
-<p>Trademarking of “strain names,” for example, may offer additional protection and economic benefits for breeders and cultivators, while at the same time one could also register the genetics of that cultivar/strain in the copyleft cannabis system here.</p>
-<p>We hope to create a community coalition, an alliance of sorts, between the Copyleft Cannabis Project, other open-source projects, NFT systems, defensive patent holders, and PVPA rights holders in the medicinal plants space that will together support each other and prevent in-fighting, thereby creating a robust backbone for community defense on a larger scale.</p>
+<p>Trademarking of “cultivar names,” for example, may offer additional protection and economic benefits for breeders and cultivators, while at the same time one could also register the genetics of that cultivar in the copyleft system.</p>
+<p>We hope to create a community coalition, an alliance of sorts, between the Copyleft Cultivars Project, other open-source projects, NFT systems, defensive patent holders, and PVPA rights holders in the medicinal plants space that will together support each other and prevent in-fighting, thereby creating a robust backbone for community defense on a larger scale.</p>
 </section>
 <section id="if-i-pledge-a-cultivar-do-i-need-to-release-the-seeds-publicly" class="level2">
 <h2 class="anchored" data-anchor-id="if-i-pledge-a-cultivar-do-i-need-to-release-the-seeds-publicly">If I pledge a cultivar, do I need to release the seeds publicly?</h2>
@@ -316,12 +305,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="if-i-breed-with-a-copyleft-protected-cultivar-what-is-the-ip-status-of-the-offspring" class="level2">
 <h2 class="anchored" data-anchor-id="if-i-breed-with-a-copyleft-protected-cultivar-what-is-the-ip-status-of-the-offspring">If I breed with a Copyleft protected cultivar, what is the IP status of the offspring?</h2>
-<p>The offspring of a Copyleft protected cultivar will themselves also be Copyleft protected. That means if they are distributed they must be distributed with the same Copyleft terms/license/protection, and prior to distribution should be logged into the Copyleft system. Because the parentage is already genetic-tested and published, the submission of genetic sequencing data may not be necessary, but the opportunity to do genetic sequencing should be made available to the Copyleft Cultivars organization for publication. We are in discussions with cannabis genetics experts to determine how many generations from a databased parent breeders may go without needing to again test the genetics and submit them to the database to continue the protections and contribute to scientific advancement.</p>
+<p>The offspring of a Copyleft protected cultivar will themselves also be Copyleft protected. That means if they are distributed they must be distributed with the same Copyleft terms/license/protection, and prior to distribution should be logged into the Copyleft system. Because the parentage is already genetic-tested and published, the submission of genetic sequencing data may not be necessary, but the opportunity to do genetic sequencing should be made available to the Copyleft Cultivars organization for publication. We are in discussions with plant genetics experts to determine how many generations from a databased parent breeders may go without needing to again test the genetics and submit them to the database to continue the protections and contribute to scientific advancement.</p>
 </section>
-<section id="how-does-this-approach-protect-from-issues-seen-previously-with-other-groups-public-fiascos-related-to-genomic-galaxy-building" class="level2">
-<h2 class="anchored" data-anchor-id="how-does-this-approach-protect-from-issues-seen-previously-with-other-groups-public-fiascos-related-to-genomic-galaxy-building">How does this approach protect from issues seen previously with other groups’ public fiascos related to genomic galaxy building?</h2>
-<p>Unlike other groups which have caved under profit-motive when creating an open genetic nexus for cannabis, we are completely free of any direct founding influence from any for-profit company.</p>
-<p>We are a small group of individual community members, many of us from the medical marijuana movement, driven by the desire to help protect the medicinal plants and medicinal plant communities which have helped us in so many ways. We are growers and breeders who started this project because we love this plant and the people who work with it. We love freedom and we love the powerful community that can be created in spaces of assured freedom.</p>
+<section id="who-is-behind-copyleft-cultivars" class="level2">
+<h2 class="anchored" data-anchor-id="who-is-behind-copyleft-cultivars">Who is behind Copyleft Cultivars?</h2>
+<p>We are a small group of individual community members, many of us from the plant medicine movement, driven by the desire to help protect the medicinal plants and medicinal plant communities which have helped us in so many ways. We are growers and breeders who started this project because we love these plants and the people who work with them. We love freedom and we love the powerful community that can be created in spaces of assured freedom.</p>
+<p>We are completely free of any direct founding influence from any for-profit company.</p>
 </section>
 <section id="why-a-nonprofit" class="level2">
 <h2 class="anchored" data-anchor-id="why-a-nonprofit">Why a nonprofit?</h2>
@@ -338,7 +327,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="what-will-be-the-notice-for-copyleft-cultivars-protected-seeds" class="level2">
 <h2 class="anchored" data-anchor-id="what-will-be-the-notice-for-copyleft-cultivars-protected-seeds">What will be the notice for Copyleft Cultivars protected seeds?</h2>
-<p>There will be a bag tag (use license label) for each license. The core protection license, CCGL (Copyleft Cannabis Genetic-backed License), has a bag tag in its main text. We also have a community-created stand-alone bag tag that carries some but not all of the benefits and protections of the CCGL and is much less solidly enforceable.</p>
+<p>There will be a bag tag (use license label) for each license. The core protection license, CCGL (Copyleft Cultivar Genetics License), has a bag tag in its main text. We also have a community-created stand-alone bag tag that carries some but not all of the benefits and protections of the CCGL and is much less solidly enforceable.</p>
 </section>
 <section id="how-does-this-benefit-breeders-contracted-or-employed-by-private-companies" class="level2">
 <h2 class="anchored" data-anchor-id="how-does-this-benefit-breeders-contracted-or-employed-by-private-companies">How does this benefit breeders contracted or employed by private companies?</h2>
@@ -362,7 +351,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="how-can-i-contribute-skills-or-funds-to-make-this-happen" class="level2">
 <h2 class="anchored" data-anchor-id="how-can-i-contribute-skills-or-funds-to-make-this-happen">How can I contribute skills or funds to make this happen?</h2>
-<p>If you have skills you’d like to contribute, or funds, to Copyleft Cultivars, please email us at <a href="mailto:copyleftcultivars@gmail.com">copyleftcultivars@gmail.com</a> or join the <a href="https://discord.gg/jFcW6ZrK">Discord</a>. We are especially looking for programmers and attorneys with experience working with Creative Commons or plant IP, and experienced nonprofit professionals. We very much appreciate the help because we are a small but dedicated of-the-community-for-the-community team.</p>
+<p>If you have skills you’d like to contribute, or funds, to Copyleft Cultivars, please email us at <a href="mailto:copyleftcultivars@gmail.com">copyleftcultivars@gmail.com</a>. We are especially looking for programmers and attorneys with experience working with Creative Commons or plant IP, and experienced nonprofit professionals. We very much appreciate the help because we are a small but dedicated of-the-community-for-the-community team.</p>
 <hr>
 <p>Except where otherwise noted, all works and content on this site are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a> + <a href="https://docs.google.com/document/d/1Gd6HGxs9KnS8nBdjXq5GLf46l6HCpr1xTKfTaF2yfrA/edit?usp=sharing">Copyleft Cultivars commercial rights and responsibilities</a>.</p>
 
@@ -796,32 +785,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
     </div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/copyleftcultivars/">
-      <i class="bi bi-instagram" role="img" aria-label="Instagram">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://discord.gg/jFcW6ZrK">
-      <i class="bi bi-discord" role="img" aria-label="Discord">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug">
-      <i class="bi bi-youtube" role="img" aria-label="YouTube">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/company/copyleft-cultivars/">
-      <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.3">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,14 +42,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e44360b8a8db1e130c7792fece1c8032.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-fedc0afa5eed45b88079642ee2c6e752.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e44360b8a8db1e130c7792fece1c8032.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-225f7d4ac5058b213f6e68272b60d4b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-30de9ca48e285bd9979ae6968b4a4bab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-225f7d4ac5058b213f6e68272b60d4b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-94cec6fcfa6b77931a1ac6e8ec87b722.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-fed6ef15b5625fb0ffef71305ead8256.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-94cec6fcfa6b77931a1ac6e8ec87b722.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,8 +117,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Preservation</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community.html"> 
-<span class="menu-text">Community</span></a>
+    <a class="nav-link" href="./initiatives.html"> 
+<span class="menu-text">Initiatives</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./events.html"> 
+<span class="menu-text">Events</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./faq.html"> 
@@ -124,28 +135,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./support.html"> 
 <span class="menu-text">Support</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/copyleftcultivars/"> <i class="bi bi-instagram" role="img" aria-label="Instagram">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://discord.gg/jFcW6ZrK"> <i class="bi bi-discord" role="img" aria-label="Discord">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug"> <i class="bi bi-youtube" role="img" aria-label="YouTube">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/company/copyleft-cultivars/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
-<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -197,14 +186,14 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="preservation-through-protection" class="level1">
 <h1>Preservation Through Protection</h1>
-<p>We are a community of plant breeders, cultivators, researchers, Indigenous Peoples, educators, consumers, creators, and artists. We are especially interested in protecting plants as a public good and supporting an economy and commons that can interface diverse communities with the broader genomics, pharmaceutical, and food production economies.</p>
+<p>We are a community of plant breeders, cultivators, researchers, Indigenous Peoples, educators, consumers, creators, and artists. We are especially interested in protecting plants as a public good and supporting an economy and commons that can interface different communities with the broader genomics, pharmaceutical, and food production economies.</p>
 <p>We are alarmed by the rapid decrease in biodiversity across the planet and believe that urgent intervention must be made to promote a sustainable, biodiverse, and resilient ecology.</p>
 </section>
 <section id="preservation-through-community-art" class="level1">
 <h1>Preservation Through Community Art</h1>
 <section id="communitree" class="level2">
 <h2 class="anchored" data-anchor-id="communitree"><sub>CommuniTree</sub></h2>
-<p>We are collaborating with YOU to plant and grow the CommuniTree: a visual display of the Copyleft community’s breeding artistry. Through compiling photos of the leaves of Freedom Bag Tag protected cultivars, we will interconnect them into a tree image that will showcase the diversity and beauty of Copyleft protected open-source cultivars, and allow breeders to receive credit publicly (if they would like). This project is an exciting fusion of the artistic skills of farmer-breeders, community open art, and open science!</p>
+<p>We are collaborating with YOU to plant and grow the CommuniTree: a visual display of the Copyleft community’s breeding artistry. Through compiling photos of the leaves of Freedom Bag Tag protected cultivars, we will interconnect them into a tree image that will showcase the variety and beauty of Copyleft protected open-source cultivars, and allow breeders to receive credit publicly (if they would like). This project is an exciting fusion of the artistic skills of farmer-breeders, community open art, and open science!</p>
 <p><em>Upload function coming soon.</em></p>
 </section>
 </section>
@@ -658,32 +647,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
     </div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.instagram.com/copyleftcultivars/">
-      <i class="bi bi-instagram" role="img" aria-label="Instagram">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://discord.gg/jFcW6ZrK">
-      <i class="bi bi-discord" role="img" aria-label="Discord">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/channel/UC-rGXuAKn6138Gxjw6VHkug">
-      <i class="bi bi-youtube" role="img" aria-label="YouTube">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/company/copyleft-cultivars/">
-      <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>
