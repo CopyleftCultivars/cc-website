@@ -1,31 +1,164 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "news/2026-09-29-collaboration.html",
+    "href": "news/2026-09-29-collaboration.html",
+    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
     "section": "",
-    "text": "Protect, publish, and preserve vulnerable plants, using copyleft, research, and education."
+    "text": "Placeholder announcement. The partner name and final details are still being confirmed — this post will be updated with the full announcement. Replace every [BRACKETED] item and delete this callout when the details are ready.\nWe are pleased to announce that Copyleft Cultivars is partnering with [PARTNER NAME] on [SHORT DESCRIPTION OF THE COLLABORATION]."
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About",
+    "objectID": "news/2026-09-29-collaboration.html#what-this-means",
+    "href": "news/2026-09-29-collaboration.html#what-this-means",
+    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
+    "section": "What this means",
+    "text": "What this means\n[Two or three sentences on what the collaboration actually does. Be concrete: what changes for breeders, growers, or communities as a result? Avoid mission-statement language here — say what will happen.]"
+  },
+  {
+    "objectID": "news/2026-09-29-collaboration.html#why-were-doing-it",
+    "href": "news/2026-09-29-collaboration.html#why-were-doing-it",
+    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
+    "section": "Why we’re doing it",
+    "text": "Why we’re doing it\n[One paragraph of context. What problem does this address, and why is this partner the right one to address it with?]"
+  },
+  {
+    "objectID": "news/2026-09-29-collaboration.html#whats-next",
+    "href": "news/2026-09-29-collaboration.html#whats-next",
+    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
+    "section": "What’s next",
+    "text": "What’s next\n[Concrete next steps and rough timing. If there is a public way to take part — a form, a mailing list, an event — link it here.]\n\n[Optional quote from a partner or from Copyleft Cultivars. Attribute it with a name and role.]"
+  },
+  {
+    "objectID": "news/2026-09-29-collaboration.html#learn-more",
+    "href": "news/2026-09-29-collaboration.html#learn-more",
+    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
+    "section": "Learn more",
+    "text": "Learn more\n\nLink to the partner’s site\nLink to the relevant project or document\nQuestions? Email copyleftcultivars@gmail.com.\n\n\nCopyleft Cultivars protects, publishes, and preserves vulnerable plants using copyleft, research, and education."
+  },
+  {
+    "objectID": "initiatives.html",
+    "href": "initiatives.html",
+    "title": "Initiatives",
     "section": "",
-    "text": "Protect, publish, and preserve vulnerable plants, using copyleft, research, and education."
+    "text": "Programs and tools built with our community. Each one works toward the same goal: keeping the genetics, knowledge, and practices that sustain vulnerable plants in the hands of the people who care for them.\n\nRegenerative Relations Initiative\nIndigenous Knowledge Systems have sustained biodiverse ecosystems for millennia through intentional stewardship and deep place-based ecological relationships. The Regenerative Relations Initiative recognizes that Indigenous leadership in food sovereignty, data sovereignty, and land stewardship offers proven pathways toward ecological resilience and cultural revitalization. Through this initiative, Copyleft Cultivars seeks to honor and strengthen these knowledge systems by supporting seven Indigenous communities in their ongoing work of maintaining reciprocal relationships with land, water, and plant relatives while building regenerative futures rooted in traditional ecological and cultural knowledge.\nCopyleft Cultivars invites Indigenous communities to join our inaugural Regenerative Relations Initiative (RRI) cohort, an international network focused on advancing land stewardship, food sovereignty, and data sovereignty through Indigenous-led regenerative practices.\nIf you have any questions, please reach out to us at regenerativerelations@gmail.com.\nInaugural Cohort Announcement\n\n\nNatural Farming Fertilizer Assistant Chatbot\nConventional farming is hard, expensive, and hurts the environment. Getting help for sustainable practices is costly and slow. Copyleft Cultivars offers on-demand AI assistants for regenerative farming through web apps and voice interfaces. Our beta has over 700 testers and over 100 supporting users across 8 countries and 40 farms, helping both small farms and large productions. Users have interacted with our chatbot in more than 100 languages. We are prototyping new AI assistants which work even without internet access and in various languages, with agronomic precision.\nCopyleft Cultivars’ Natural Farming Fertilizer Assistant Chatbot aims to create customized, localized, free Natural Farming fertilizer recipes, most of which can be made with local free ingredients.\nAccess Our Agriculture Assistant\n\n\nHugging Face\nView our open-source collections, spaces, models, and datasets.\nHugging Face Hub\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
   },
   {
-    "objectID": "about.html#a-community-commons-for-vulnerable-plants",
-    "href": "about.html#a-community-commons-for-vulnerable-plants",
-    "title": "About",
-    "section": "A Community Commons for Vulnerable Plants",
-    "text": "A Community Commons for Vulnerable Plants\nWe are creating a community commons for vulnerable plants. The community commons approach acts as an ecosystem where each part of the community is benefited by the work of the whole, and thereby the community gains protections and resources that would be impossible separately. This approach is fostered by, and its users protected by, the nonprofit.\nWe are creating this community commons system for the planet. Whether you come from the agricultural community, academia, the plant medicine community, conservation and environmental stewardship actions, or emerging markets, Copyleft Cultivars welcomes you."
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Announcements, collaborations, and milestones from Copyleft Cultivars. For upcoming and past gatherings, see Events."
   },
   {
-    "objectID": "about.html#three-public-goods",
-    "href": "about.html#three-public-goods",
-    "title": "About",
-    "section": "Three Public Goods",
-    "text": "Three Public Goods\nOur community is oriented around the protection and promotion of three public goods: plant genetics, biodiversity, and cultural autonomy.\nWe view these public goods as interconnected, reifying each other and working in concert as foundational pillars to create a resilient ecology. Plant genetics are contested as public goods primarily through the dominant intellectual property system, which allows for the privatization and exclusive ownership of plant genetics under certain circumstances, but are historical public goods across nearly all cultures.\nBiodiversity is widely recognized as a public good, but faces a classic tragedy-of-the-commons market failure driven by a centralizing and homogenizing suite of trade rules that can be broadly characterized as neoliberal. We view cultural autonomy as connected to biodiversity, but identify it as a discrete public good because of its connection to other public goods, such as human rights and freedom.\nOur community supports each of these public goods through hacks into the intellectual property system, adopting biomimetic approaches to intellectual property licensing rooted in open-source, copyleft/patentleft, and “ethical IP” practices.\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
+    "objectID": "news.html#announcements",
+    "href": "news.html#announcements",
+    "title": "News",
+    "section": "Announcements",
+    "text": "Announcements\n\nCopyleft Cultivars announces a collaboration with [PARTNER NAME]\nSeptember 29, 2026 — A new collaboration is in the works. Partner and full details to follow."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "We gather the community around copyleft, open-source plant genetics, and farmer freedom. Upcoming gatherings are listed first; below them is our archive of past events, where you can click through the timeline to read what happened."
+  },
+  {
+    "objectID": "events.html#upcoming-events",
+    "href": "events.html#upcoming-events",
+    "title": "Events",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n\n\n\n\nNo events are scheduled right now. New events are announced on the News page and to our email list first — subscribe to hear about the next one."
+  },
+  {
+    "objectID": "events.html#past-events",
+    "href": "events.html#past-events",
+    "title": "Events",
+    "section": "Past Events",
+    "text": "Past Events\nClick any event in the timeline to read its details.\n\n\n\n\nJanuary 20, 2025 · 6–7 pm PST\n\n\nRegenerative Relations Initiative Informational Webinar\n\n\nLocation: Zoom (link sent upon registration)\n\n\nIndigenous Knowledge Systems have sustained biodiverse ecosystems for millennia through intentional stewardship and deep place-based ecological relationships. The Regenerative Relations Initiative recognizes that Indigenous leadership in food sovereignty, data sovereignty, and land stewardship offers proven pathways toward ecological resilience and cultural revitalization.\n\n\nThis session introduced the initiative and answered questions from communities interested in the inaugural cohort.\n\n\nRead the cohort announcement\n\n\n\n\nDecember 8, 2022 · 10:30 am PST\n\n\nFree the Seeds\n\n\nFormat: Digital ceremonial release event\n\n\nJoin us for this first-of-its-kind digital ceremonial release event!\n\n\nWe released the long-awaited Freedom Bag Tag, a unique and easy-to-use label you can put on new seed packs to legally copyleft-protect them as a public good and ensure all future users that your seeds have freedom of use.\n\n\nThe Freedom Bag Tag was created over the course of nearly two years, including a very lively public collaboration to create the text of this freedom-assuring Bag Tag. This was the first step in our mission to make copyleft and open-source protections available for the community at large and help us unite together as a community.\n\n\nLearn about the Freedom Bag Tag\n\n\n\n\n\nPast Events\n\n\n\n\n Jan 20, 2025 RRI Informational Webinar\n\n\n\n\n Dec 8, 2022 Free the Seeds"
+  },
+  {
+    "objectID": "events.html#subscribe-to-email-updates",
+    "href": "events.html#subscribe-to-email-updates",
+    "title": "Events",
+    "section": "Subscribe to Email Updates",
+    "text": "Subscribe to Email Updates\nBe the first to hear about upcoming events and new announcements.\nSubscribe"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Copyleft Cultivars",
+    "section": "",
+    "text": "Bringing forth change through innovative collaboration."
+  },
+  {
+    "objectID": "index.html#support-our-mission",
+    "href": "index.html#support-our-mission",
+    "title": "Copyleft Cultivars",
+    "section": "Support Our Mission",
+    "text": "Support Our Mission\nWe protect, publish, and preserve vulnerable plants — using copyleft, research, and education. To date we are 100% crowdfunded and rely on people like you to make this work possible.\nDonate Now"
+  },
+  {
+    "objectID": "index.html#subscribe",
+    "href": "index.html#subscribe",
+    "title": "Copyleft Cultivars",
+    "section": "Subscribe",
+    "text": "Subscribe\nSign up to receive updates and learn more about our movement.\nSubscribe"
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Copyleft Cultivars",
+    "section": "Explore",
+    "text": "Explore\n\n\nAbout\nOur mission and the community commons we are building for vulnerable plants.\n\n\nPreservation\nPreservation through protection, community art, and the Freedom Bag Tag.\n\n\nInitiatives\nPrograms and tools we build with the community, from Indigenous-led stewardship to open-source agricultural AI.\n\n\nEvents\nUpcoming gatherings and an archive of our past events.\n\n\nNews\nAnnouncements, collaborations, and milestones.\n\n\nFAQ\nAnswers about copyleft, open-source plants, and how protection works."
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Copyleft Cultivars",
+    "section": "Contact Us",
+    "text": "Contact Us\ncopyleftcultivars@gmail.com\nContact Us"
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Support",
+    "section": "",
+    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, click the button below.\nDonate Now"
+  },
+  {
+    "objectID": "support.html#donate",
+    "href": "support.html#donate",
+    "title": "Support",
+    "section": "",
+    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, click the button below.\nDonate Now"
+  },
+  {
+    "objectID": "support.html#copyleft-cultivars-apparel",
+    "href": "support.html#copyleft-cultivars-apparel",
+    "title": "Support",
+    "section": "Copyleft Cultivars Apparel",
+    "text": "Copyleft Cultivars Apparel\nEthically produced. Super comfy. Kaleidoscopic.\nCopyleft Cultivars Apparel — designed by one of our very own co-founders &lt;3\nShop Now"
+  },
+  {
+    "objectID": "support.html#volunteer",
+    "href": "support.html#volunteer",
+    "title": "Support",
+    "section": "Volunteer",
+    "text": "Volunteer\nJoin our community collaboration.\nWe are seeking genomics experts, lawyers, and nonprofit professionals. Email us at copyleftcultivars@gmail.com and share how you can contribute to our efforts!\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
+  },
+  {
+    "objectID": "preservation.html",
+    "href": "preservation.html",
+    "title": "Preservation",
+    "section": "",
+    "text": "We are a community of plant breeders, cultivators, researchers, Indigenous Peoples, educators, consumers, creators, and artists. We are especially interested in protecting plants as a public good and supporting an economy and commons that can interface different communities with the broader genomics, pharmaceutical, and food production economies.\nWe are alarmed by the rapid decrease in biodiversity across the planet and believe that urgent intervention must be made to promote a sustainable, biodiverse, and resilient ecology."
+  },
+  {
+    "objectID": "preservation.html#communitree",
+    "href": "preservation.html#communitree",
+    "title": "Preservation",
+    "section": "CommuniTree",
+    "text": "CommuniTree\nWe are collaborating with YOU to plant and grow the CommuniTree: a visual display of the Copyleft community’s breeding artistry. Through compiling photos of the leaves of Freedom Bag Tag protected cultivars, we will interconnect them into a tree image that will showcase the variety and beauty of Copyleft protected open-source cultivars, and allow breeders to receive credit publicly (if they would like). This project is an exciting fusion of the artistic skills of farmer-breeders, community open art, and open science!\nUpload function coming soon."
   },
   {
     "objectID": "faq.html",
@@ -224,129 +357,31 @@
     "text": "How can I contribute skills or funds to make this happen?\nIf you have skills you’d like to contribute, or funds, to Copyleft Cultivars, please email us at copyleftcultivars@gmail.com. We are especially looking for programmers and attorneys with experience working with Creative Commons or plant IP, and experienced nonprofit professionals. We very much appreciate the help because we are a small but dedicated of-the-community-for-the-community team.\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
   },
   {
-    "objectID": "preservation.html",
-    "href": "preservation.html",
-    "title": "Preservation",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "We are a community of plant breeders, cultivators, researchers, Indigenous Peoples, educators, consumers, creators, and artists. We are especially interested in protecting plants as a public good and supporting an economy and commons that can interface different communities with the broader genomics, pharmaceutical, and food production economies.\nWe are alarmed by the rapid decrease in biodiversity across the planet and believe that urgent intervention must be made to promote a sustainable, biodiverse, and resilient ecology."
+    "text": "Protect, publish, and preserve vulnerable plants, using copyleft, research, and education."
   },
   {
-    "objectID": "preservation.html#communitree",
-    "href": "preservation.html#communitree",
-    "title": "Preservation",
-    "section": "CommuniTree",
-    "text": "CommuniTree\nWe are collaborating with YOU to plant and grow the CommuniTree: a visual display of the Copyleft community’s breeding artistry. Through compiling photos of the leaves of Freedom Bag Tag protected cultivars, we will interconnect them into a tree image that will showcase the variety and beauty of Copyleft protected open-source cultivars, and allow breeders to receive credit publicly (if they would like). This project is an exciting fusion of the artistic skills of farmer-breeders, community open art, and open science!\nUpload function coming soon."
-  },
-  {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Support",
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About",
     "section": "",
-    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, click the button below.\nDonate Now"
+    "text": "Protect, publish, and preserve vulnerable plants, using copyleft, research, and education."
   },
   {
-    "objectID": "support.html#donate",
-    "href": "support.html#donate",
-    "title": "Support",
-    "section": "",
-    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, click the button below.\nDonate Now"
+    "objectID": "about.html#a-community-commons-for-vulnerable-plants",
+    "href": "about.html#a-community-commons-for-vulnerable-plants",
+    "title": "About",
+    "section": "A Community Commons for Vulnerable Plants",
+    "text": "A Community Commons for Vulnerable Plants\nWe are creating a community commons for vulnerable plants. The community commons approach acts as an ecosystem where each part of the community is benefited by the work of the whole, and thereby the community gains protections and resources that would be impossible separately. This approach is fostered by, and its users protected by, the nonprofit.\nWe are creating this community commons system for the planet. Whether you come from the agricultural community, academia, the plant medicine community, conservation and environmental stewardship actions, or emerging markets, Copyleft Cultivars welcomes you."
   },
   {
-    "objectID": "support.html#copyleft-cultivars-apparel",
-    "href": "support.html#copyleft-cultivars-apparel",
-    "title": "Support",
-    "section": "Copyleft Cultivars Apparel",
-    "text": "Copyleft Cultivars Apparel\nEthically produced. Super comfy. Kaleidoscopic.\nCopyleft Cultivars Apparel — designed by one of our very own co-founders &lt;3\nShop Now"
-  },
-  {
-    "objectID": "support.html#volunteer",
-    "href": "support.html#volunteer",
-    "title": "Support",
-    "section": "Volunteer",
-    "text": "Volunteer\nJoin our community collaboration.\nWe are seeking genomics experts, lawyers, and nonprofit professionals. Email us at copyleftcultivars@gmail.com and share how you can contribute to our efforts!\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Copyleft Cultivars",
-    "section": "",
-    "text": "Bringing forth change through innovative collaboration."
-  },
-  {
-    "objectID": "index.html#support-our-mission",
-    "href": "index.html#support-our-mission",
-    "title": "Copyleft Cultivars",
-    "section": "Support Our Mission",
-    "text": "Support Our Mission\nWe protect, publish, and preserve vulnerable plants — using copyleft, research, and education. To date we are 100% crowdfunded and rely on people like you to make this work possible.\nDonate Now"
-  },
-  {
-    "objectID": "index.html#subscribe",
-    "href": "index.html#subscribe",
-    "title": "Copyleft Cultivars",
-    "section": "Subscribe",
-    "text": "Subscribe\nSign up to receive updates and learn more about our movement.\nSubscribe"
-  },
-  {
-    "objectID": "index.html#explore",
-    "href": "index.html#explore",
-    "title": "Copyleft Cultivars",
-    "section": "Explore",
-    "text": "Explore\n\n\nAbout\nOur mission and the community commons we are building for vulnerable plants.\n\n\nPreservation\nPreservation through protection, community art, and the Freedom Bag Tag.\n\n\nInitiatives\nPrograms and tools we build with the community, from Indigenous-led stewardship to open-source agricultural AI.\n\n\nEvents\nUpcoming gatherings and an archive of our past events.\n\n\nNews\nAnnouncements, collaborations, and milestones.\n\n\nFAQ\nAnswers about copyleft, open-source plants, and how protection works."
-  },
-  {
-    "objectID": "index.html#contact-us",
-    "href": "index.html#contact-us",
-    "title": "Copyleft Cultivars",
-    "section": "Contact Us",
-    "text": "Contact Us\ncopyleftcultivars@gmail.com\nContact Us"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "We gather the community around copyleft, open-source plant genetics, and farmer freedom. Upcoming gatherings are listed first; below them is our archive of past events, where you can click through the timeline to read what happened."
-  },
-  {
-    "objectID": "events.html#upcoming-events",
-    "href": "events.html#upcoming-events",
-    "title": "Events",
-    "section": "Upcoming Events",
-    "text": "Upcoming Events\n\n\n\n\n\n\nNo events are scheduled right now. New events are announced on the News page and to our email list first — subscribe to hear about the next one."
-  },
-  {
-    "objectID": "events.html#past-events",
-    "href": "events.html#past-events",
-    "title": "Events",
-    "section": "Past Events",
-    "text": "Past Events\nClick any event in the timeline to read its details.\n\n\n\n\nJanuary 20, 2025 · 6–7 pm PST\n\n\nRegenerative Relations Initiative Informational Webinar\n\n\nLocation: Zoom (link sent upon registration)\n\n\nIndigenous Knowledge Systems have sustained biodiverse ecosystems for millennia through intentional stewardship and deep place-based ecological relationships. The Regenerative Relations Initiative recognizes that Indigenous leadership in food sovereignty, data sovereignty, and land stewardship offers proven pathways toward ecological resilience and cultural revitalization.\n\n\nThis session introduced the initiative and answered questions from communities interested in the inaugural cohort.\n\n\nRead the cohort announcement\n\n\n\n\nDecember 8, 2022 · 10:30 am PST\n\n\nFree the Seeds\n\n\nFormat: Digital ceremonial release event\n\n\nJoin us for this first-of-its-kind digital ceremonial release event!\n\n\nWe released the long-awaited Freedom Bag Tag, a unique and easy-to-use label you can put on new seed packs to legally copyleft-protect them as a public good and ensure all future users that your seeds have freedom of use.\n\n\nThe Freedom Bag Tag was created over the course of nearly two years, including a very lively public collaboration to create the text of this freedom-assuring Bag Tag. This was the first step in our mission to make copyleft and open-source protections available for the community at large and help us unite together as a community.\n\n\nLearn about the Freedom Bag Tag\n\n\n\n\n\nPast Events\n\n\n\n\n Jan 20, 2025 RRI Informational Webinar\n\n\n\n\n Dec 8, 2022 Free the Seeds"
-  },
-  {
-    "objectID": "events.html#subscribe-to-email-updates",
-    "href": "events.html#subscribe-to-email-updates",
-    "title": "Events",
-    "section": "Subscribe to Email Updates",
-    "text": "Subscribe to Email Updates\nBe the first to hear about upcoming events and new announcements.\nSubscribe"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Announcements, collaborations, and milestones from Copyleft Cultivars. For upcoming and past gatherings, see Events."
-  },
-  {
-    "objectID": "news.html#announcements",
-    "href": "news.html#announcements",
-    "title": "News",
-    "section": "Announcements",
-    "text": "Announcements\n\n\n\n\n\n\nNothing published yet. New announcements appear here first — subscribe to our email updates to hear about them."
-  },
-  {
-    "objectID": "initiatives.html",
-    "href": "initiatives.html",
-    "title": "Initiatives",
-    "section": "",
-    "text": "Programs and tools built with our community. Each one works toward the same goal: keeping the genetics, knowledge, and practices that sustain vulnerable plants in the hands of the people who care for them.\n\nRegenerative Relations Initiative\nIndigenous Knowledge Systems have sustained biodiverse ecosystems for millennia through intentional stewardship and deep place-based ecological relationships. The Regenerative Relations Initiative recognizes that Indigenous leadership in food sovereignty, data sovereignty, and land stewardship offers proven pathways toward ecological resilience and cultural revitalization. Through this initiative, Copyleft Cultivars seeks to honor and strengthen these knowledge systems by supporting seven Indigenous communities in their ongoing work of maintaining reciprocal relationships with land, water, and plant relatives while building regenerative futures rooted in traditional ecological and cultural knowledge.\nCopyleft Cultivars invites Indigenous communities to join our inaugural Regenerative Relations Initiative (RRI) cohort, an international network focused on advancing land stewardship, food sovereignty, and data sovereignty through Indigenous-led regenerative practices.\nIf you have any questions, please reach out to us at regenerativerelations@gmail.com.\nInaugural Cohort Announcement\n\n\nNatural Farming Fertilizer Assistant Chatbot\nConventional farming is hard, expensive, and hurts the environment. Getting help for sustainable practices is costly and slow. Copyleft Cultivars offers on-demand AI assistants for regenerative farming through web apps and voice interfaces. Our beta has over 700 testers and over 100 supporting users across 8 countries and 40 farms, helping both small farms and large productions. Users have interacted with our chatbot in more than 100 languages. We are prototyping new AI assistants which work even without internet access and in various languages, with agronomic precision.\nCopyleft Cultivars’ Natural Farming Fertilizer Assistant Chatbot aims to create customized, localized, free Natural Farming fertilizer recipes, most of which can be made with local free ingredients.\nAccess Our Agriculture Assistant\n\n\nHugging Face\nView our open-source collections, spaces, models, and datasets.\nHugging Face Hub\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
+    "objectID": "about.html#three-public-goods",
+    "href": "about.html#three-public-goods",
+    "title": "About",
+    "section": "Three Public Goods",
+    "text": "Three Public Goods\nOur community is oriented around the protection and promotion of three public goods: plant genetics, biodiversity, and cultural autonomy.\nWe view these public goods as interconnected, reifying each other and working in concert as foundational pillars to create a resilient ecology. Plant genetics are contested as public goods primarily through the dominant intellectual property system, which allows for the privatization and exclusive ownership of plant genetics under certain circumstances, but are historical public goods across nearly all cultures.\nBiodiversity is widely recognized as a public good, but faces a classic tragedy-of-the-commons market failure driven by a centralizing and homogenizing suite of trade rules that can be broadly characterized as neoliberal. We view cultural autonomy as connected to biodiversity, but identify it as a discrete public good because of its connection to other public goods, such as human rights and freedom.\nOur community supports each of these public goods through hacks into the intellectual property system, adopting biomimetic approaches to intellectual property licensing rooted in open-source, copyleft/patentleft, and “ethical IP” practices.\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
   }
 ]
