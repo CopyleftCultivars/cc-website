@@ -22,10 +22,10 @@ website:
             href: about.qmd#the-commons
       - text: "Resources"
         menu:
+          - text: "The Regenerative Relations Initiative"
+            href: initiatives.qmd#regenerative-relations-initiative
           - text: "Agriculture Assistant"
             href: initiatives.qmd#regenerative-agriculture-assistant
-      - text: "Regenerative Relations Initiative"
-        href: initiatives.qmd#regenerative-relations-initiative
       - text: "Genomic Galaxy"
         href: genomic-galaxy.qmd
       - text: "FAQ"
