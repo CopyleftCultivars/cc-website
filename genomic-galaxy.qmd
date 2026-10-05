@@ -13,15 +13,6 @@ As growing seasons shift, land stewards and breeders around the world are develo
 
 The Genomic Galaxy is being built to keep these plants in relationship with the communities and biomes where their adaptability and resilience will play a critical role in supporting life on our beloved home, Earth.
 
-## The future of plant genomics
-
-Portable sequencers and falling costs now let small labs, seed libraries, and communities read plant genomes that once required a major research university. This shift opens exciting possibilities:
-
-- Identifying the genetic traits behind resilience in different plant varieties.
-- Documenting a variety’s lineage so it can be recognized and protected as open.
-- Guiding community breeding programs toward drought, heat, flood, and pest resilience.
-- Supporting community data governance and community-led labs that pair genomic research with Indigenous Traditional Ecological and Cultural Knowledge (ITECK).
-
 ## Join the Genomic Galaxy
 
 We are building the infrastructure, data governance frameworks, and bioinformatics tools to honor those who contribute to the collective knowledge system. We invite you to join us!
