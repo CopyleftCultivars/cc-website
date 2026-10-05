@@ -4,9 +4,94 @@
   max-height: 40px;
 }
 
-/* Hero / about block on the home page */
+/* Group the Freedom Bag Tag links within the Resources dropdown. */
+.navbar .dropdown-menu > li.dropdown-header + li .dropdown-item,
+.navbar .dropdown-menu > li.dropdown-header + li + li .dropdown-item {
+  padding-left: 2rem;
+}
+
+/* Homepage mission hero */
 .quarto-title-block .quarto-title .title {
   font-weight: 700;
+}
+
+.home-page .quarto-title-block {
+  display: none;
+}
+
+.home-page .mission-hero {
+  max-width: 58rem;
+  margin: clamp(2.5rem, 7vw, 5rem) auto 1rem;
+  text-align: center;
+}
+
+.home-page .home-logo {
+  display: block;
+  width: clamp(5rem, 12vw, 8rem);
+  height: auto;
+  margin: 0 auto 1.5rem;
+}
+
+.home-page .mission-hero figcaption {
+  display: none;
+}
+
+.home-page .mission-copy {
+  max-width: 58rem;
+  margin: 0 auto;
+  text-align: justify;
+  text-justify: inter-word;
+  text-align-last: left;
+  font-size: clamp(1.1rem, 1.7vw, 1.35rem);
+  line-height: 1.75;
+}
+
+.home-page .home-work-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.home-page .work-card {
+  border: 1px solid rgba(var(--bs-primary-rgb), 0.2);
+  border-left: 3px solid rgb(var(--bs-primary-rgb));
+  border-radius: 10px;
+  background: rgba(var(--bs-primary-rgb), 0.035);
+  padding: 1.25rem 1.5rem;
+}
+
+.home-page .work-card h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.home-page .work-card > :last-child {
+  margin-bottom: 0;
+}
+
+.home-page .work-support {
+  margin: 2rem 0 3rem;
+  padding: 1.5rem;
+  border-radius: 10px;
+  background: rgba(var(--bs-primary-rgb), 0.07);
+  text-align: center;
+}
+
+.home-page .work-support h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .home-page .home-work-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.about-intro {
+  margin: 1.5rem 0 2rem;
+  font-size: 1.15rem;
+  line-height: 1.75;
 }
 
 /* Rounded images (used for page banners) */
@@ -238,4 +323,3 @@ body .event-card.page-columns {
     display: none;
   }
 }
-

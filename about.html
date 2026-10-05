@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Copyleft Cultivars</title>
+<title>About Copyleft Cultivars – Copyleft Cultivars</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -109,34 +109,77 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html#our-mission">
+ <span class="dropdown-text">Mission</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#who-we-are">
+ <span class="dropdown-text">Who we are</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#a-community-commons-for-vulnerable-plants">
+ <span class="dropdown-text">The Commons</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li class="dropdown-header">Freedom Bag Tag</li>
+        <li>
+    <a class="dropdown-item" href="./preservation.html#freedom-bag-tag">
+ <span class="dropdown-text">V2 (English &amp; Spanish)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./preservation.html#freedom-bag-tag">
+ <span class="dropdown-text">OGV</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4" rel="noopener" target="_blank">
+ <span class="dropdown-text">Agriculture Assistant</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./initiatives.html#regenerative-relations-initiative"> 
+<span class="menu-text">Regenerative Relations Initiative</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./preservation.html"> 
-<span class="menu-text">Preservation</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./initiatives.html"> 
-<span class="menu-text">Initiatives</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./events.html"> 
-<span class="menu-text">Events</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
-<span class="menu-text">News</span></a>
+    <a class="nav-link" href="./faq.html#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars"> 
+<span class="menu-text">Genomic Galaxy</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./faq.html"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./support.html"> 
-<span class="menu-text">Support</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-support" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Support</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-support">    
+        <li>
+    <a class="dropdown-item" href="./support.html#donate">
+ <span class="dropdown-text">Donate</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./support.html#volunteer">
+ <span class="dropdown-text">Volunteer</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://www.patreon.com/CopyleftCultivarsNonprofit" rel="noopener" target="_blank">
+ <span class="dropdown-text">Patreon</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -153,9 +196,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#our-mission" id="toc-our-mission" class="nav-link active" data-scroll-target="#our-mission">Our Mission</a></li>
-  <li><a href="#a-community-commons-for-vulnerable-plants" id="toc-a-community-commons-for-vulnerable-plants" class="nav-link" data-scroll-target="#a-community-commons-for-vulnerable-plants">A Community Commons for Vulnerable Plants</a></li>
-  <li><a href="#three-public-goods" id="toc-three-public-goods" class="nav-link" data-scroll-target="#three-public-goods">Three Public Goods</a></li>
+  <li><a href="#a-community-commons-for-vulnerable-plants" id="toc-a-community-commons-for-vulnerable-plants" class="nav-link active" data-scroll-target="#a-community-commons-for-vulnerable-plants">A community commons for vulnerable plants</a>
+  <ul class="collapse">
+  <li><a href="#who-we-are" id="toc-who-we-are" class="nav-link" data-scroll-target="#who-we-are">Who we are</a></li>
+  <li><a href="#soil-health-remediation" id="toc-soil-health-remediation" class="nav-link" data-scroll-target="#soil-health-remediation">Soil Health &amp; Remediation</a></li>
+  <li><a href="#plant-genomics-for-ecological-resilience" id="toc-plant-genomics-for-ecological-resilience" class="nav-link" data-scroll-target="#plant-genomics-for-ecological-resilience">Plant Genomics for Ecological Resilience</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -164,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">About Copyleft Cultivars</h1>
 </div>
 
 
@@ -181,25 +227,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="our-mission" class="level2">
-<h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
-<p><strong>Protect, publish, and preserve vulnerable plants, using copyleft, research, and education.</strong></p>
-</section>
+<div id="our-mission" class="about-intro">
+<p>Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity.</p>
+</div>
 <section id="a-community-commons-for-vulnerable-plants" class="level2">
-<h2 class="anchored" data-anchor-id="a-community-commons-for-vulnerable-plants">A Community Commons for Vulnerable Plants</h2>
-<p>We are creating a community commons for vulnerable plants. The community commons approach acts as an ecosystem where each part of the community is benefited by the work of the whole, and thereby the community gains protections and resources that would be impossible separately. This approach is fostered by, and its users protected by, the nonprofit.</p>
-<p>We are creating this community commons system for the planet. Whether you come from the agricultural community, academia, the plant medicine community, conservation and environmental stewardship actions, or emerging markets, Copyleft Cultivars welcomes you.</p>
+<h2 class="anchored" data-anchor-id="a-community-commons-for-vulnerable-plants">A community commons for vulnerable plants</h2>
+<p>Here, “vulnerable” describes wild and cultivated plants whose survival, diversity, or continued care by communities is at risk. These risks can include habitat loss, changing growing conditions, and barriers to saving, sharing, or stewarding seeds and plant knowledge. We use the term broadly, rather than as a formal conservation-status category.</p>
+<section id="who-we-are" class="level3">
+<h3 class="anchored" data-anchor-id="who-we-are">Who we are</h3>
+<p>We are building a commons where plants and community knowledges meet to co-create a more resilient future. Whether you come from a background in farming, gardening, academia, conservation, ecological restoration, plant breeding, or land stewardship, you are welcome here.</p>
 </section>
-<section id="three-public-goods" class="level2">
-<h2 class="anchored" data-anchor-id="three-public-goods">Three Public Goods</h2>
-<p>Our community is oriented around the protection and promotion of three public goods: <strong>plant genetics, biodiversity, and cultural autonomy.</strong></p>
-<p>We view these public goods as interconnected, reifying each other and working in concert as foundational pillars to create a resilient ecology. Plant genetics are contested as public goods primarily through the dominant intellectual property system, which allows for the privatization and exclusive ownership of plant genetics under certain circumstances, but are historical public goods across nearly all cultures.</p>
-<p>Biodiversity is widely recognized as a public good, but faces a classic tragedy-of-the-commons market failure driven by a centralizing and homogenizing suite of trade rules that can be broadly characterized as neoliberal. We view cultural autonomy as connected to biodiversity, but identify it as a discrete public good because of its connection to other public goods, such as human rights and freedom.</p>
-<p>Our community supports each of these public goods through hacks into the intellectual property system, adopting biomimetic approaches to intellectual property licensing rooted in open-source, copyleft/patentleft, and “ethical IP” practices.</p>
-<hr>
-<p>Except where otherwise noted, all works and content on this site are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a> + <a href="https://docs.google.com/document/d/1Gd6HGxs9KnS8nBdjXq5GLf46l6HCpr1xTKfTaF2yfrA/edit?usp=sharing">Copyleft Cultivars commercial rights and responsibilities</a>.</p>
+<section id="soil-health-remediation" class="level3">
+<h3 class="anchored" data-anchor-id="soil-health-remediation">Soil Health &amp; Remediation</h3>
+<p>Healthy plants need living soil. Our tools and partnerships share practices and knowledges for rebuilding and restoring degraded ground or eroded land.</p>
+</section>
+<section id="plant-genomics-for-ecological-resilience" class="level3">
+<h3 class="anchored" data-anchor-id="plant-genomics-for-ecological-resilience">Plant Genomics for Ecological Resilience</h3>
+<p>Our team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property.</p>
+<p>Because claims of ownership can sever people’s ability to stay in relationship with knowledge and with plant relatives, our open-source tools are designed to strengthen those relationships and keep them intact.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

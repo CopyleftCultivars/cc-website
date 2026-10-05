@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Copyleft Cultivars — A Global Movement – Copyleft Cultivars</title>
+<title>Copyleft Cultivars</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -41,6 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -83,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed home-page fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -108,34 +109,77 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html#our-mission">
+ <span class="dropdown-text">Mission</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#who-we-are">
+ <span class="dropdown-text">Who we are</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#a-community-commons-for-vulnerable-plants">
+ <span class="dropdown-text">The Commons</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li class="dropdown-header">Freedom Bag Tag</li>
+        <li>
+    <a class="dropdown-item" href="./preservation.html#freedom-bag-tag">
+ <span class="dropdown-text">V2 (English &amp; Spanish)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./preservation.html#freedom-bag-tag">
+ <span class="dropdown-text">OGV</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4" rel="noopener" target="_blank">
+ <span class="dropdown-text">Agriculture Assistant</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./initiatives.html#regenerative-relations-initiative"> 
+<span class="menu-text">Regenerative Relations Initiative</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./preservation.html"> 
-<span class="menu-text">Preservation</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./initiatives.html"> 
-<span class="menu-text">Initiatives</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./events.html"> 
-<span class="menu-text">Events</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
-<span class="menu-text">News</span></a>
+    <a class="nav-link" href="./faq.html#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars"> 
+<span class="menu-text">Genomic Galaxy</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./faq.html"> 
 <span class="menu-text">FAQ</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./support.html"> 
-<span class="menu-text">Support</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-support" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Support</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-support">    
+        <li>
+    <a class="dropdown-item" href="./support.html#donate">
+ <span class="dropdown-text">Donate</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./support.html#volunteer">
+ <span class="dropdown-text">Volunteer</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://www.patreon.com/CopyleftCultivarsNonprofit" rel="noopener" target="_blank">
+ <span class="dropdown-text">Patreon</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -149,72 +193,89 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/logo.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Copyleft Cultivars</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-<section id="a-global-movement" class="level3">
-<h3 data-anchor-id="a-global-movement">A Global Movement</h3>
-<p>Bringing forth change through innovative collaboration.</p>
-<hr>
+  
+
+
+</header>
+
+
+<div class="mission-hero">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/logo.png" class="home-logo img-fluid figure-img"></p>
+<figcaption>Copyleft Cultivars logo</figcaption>
+</figure>
+</div>
+<div class="mission-copy">
+<p>Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity.</p>
+</div>
+</div>
+<section id="our-work" class="level2">
+<h2 class="anchored" data-anchor-id="our-work">Our Work</h2>
+<div class="home-work-grid">
+<section id="freedom-bag-tag" class="level3 work-card">
+<h3 class="anchored" data-anchor-id="freedom-bag-tag"><a href="./preservation.html#freedom-bag-tag">Freedom Bag Tag</a></h3>
+<p>A collaboratively created seed-packet label that keeps seeds and their future generations free to save, replant, share, and breed.</p>
+<p><a href="./preservation.html#freedom-bag-tag">Learn More →</a></p>
 </section>
-<section id="support-our-mission" class="level2">
-<h2 data-anchor-id="support-our-mission">Support Our Mission</h2>
-<p>We protect, publish, and preserve vulnerable plants — using copyleft, research, and education. To date we are 100% crowdfunded and rely on people like you to make this work possible.</p>
-<p><a href="https://www.patreon.com/CopyleftCultivarsNonprofit" class="btn btn-primary" role="button">Donate Now</a></p>
+<section id="regenerative-relations-initiative" class="level3 work-card">
+<h3 class="anchored" data-anchor-id="regenerative-relations-initiative"><a href="./initiatives.html#regenerative-relations-initiative">Regenerative Relations Initiative</a></h3>
+<p>Relationship-based collaboration with land-based communities on land stewardship, conservation, environmental restoration, and data governance.</p>
+<p><a href="./initiatives.html#regenerative-relations-initiative">Learn More →</a></p>
 </section>
-<section id="subscribe" class="level2">
-<h2 data-anchor-id="subscribe">Subscribe</h2>
-<p>Sign up to receive updates and learn more about our movement.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform" class="btn btn-outline-primary" role="button">Subscribe</a></p>
+<section id="genomic-galaxy" class="level3 work-card">
+<h3 class="anchored" data-anchor-id="genomic-galaxy"><a href="./faq.html#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars">Genomic Galaxy</a></h3>
+<p>A shared commons in development for newly bred plant varieties, fostering resiliency and adaptability while protecting plants and plant relations for research and future generations.</p>
 </section>
-<section id="explore" class="level2">
-<h2 data-anchor-id="explore">Explore</h2>
-<div class="grid">
-<section id="about" class="level3 g-col-12 g-col-md-6">
-<h3 data-anchor-id="about"><a href="./about.html">About</a></h3>
-<p>Our mission and the community commons we are building for vulnerable plants.</p>
-</section>
-<section id="preservation" class="level3 g-col-12 g-col-md-6">
-<h3 data-anchor-id="preservation"><a href="./preservation.html">Preservation</a></h3>
-<p>Preservation through protection, community art, and the Freedom Bag Tag.</p>
-</section>
-<section id="initiatives" class="level3 g-col-12 g-col-md-6">
-<h3 data-anchor-id="initiatives"><a href="./initiatives.html">Initiatives</a></h3>
-<p>Programs and tools we build with the community, from Indigenous-led stewardship to open-source agricultural AI.</p>
-</section>
-<section id="events" class="level3 g-col-12 g-col-md-6">
-<h3 data-anchor-id="events"><a href="./events.html">Events</a></h3>
-<p>Upcoming gatherings and an archive of our past events.</p>
-</section>
-<section id="news" class="level3 g-col-12 g-col-md-6">
-<h3 data-anchor-id="news"><a href="./news.html">News</a></h3>
-<p>Announcements, collaborations, and milestones.</p>
-</section>
-<section id="faq" class="level3 g-col-12 g-col-md-6">
-<h3 data-anchor-id="faq"><a href="./faq.html">FAQ</a></h3>
-<p>Answers about copyleft, open-source plants, and how protection works.</p>
+<section id="regenerative-agriculture-assistant" class="level3 work-card">
+<h3 class="anchored" data-anchor-id="regenerative-agriculture-assistant"><a href="./initiatives.html#natural-farming-fertilizer-assistant-chatbot">Regenerative Agriculture Assistant</a></h3>
+<p>A free multilingual chatbot offering regenerative agricultural knowledge, including guidance on natural traditional farming practices and soil health.</p>
+<p><a href="./initiatives.html#natural-farming-fertilizer-assistant-chatbot">Learn More →</a></p>
 </section>
 </div>
+<section id="make-this-work-possible" class="level3 work-support">
+<h3 class="anchored" data-anchor-id="make-this-work-possible">Make this work possible</h3>
+<p>Support this project on <a href="https://www.patreon.com/CopyleftCultivarsNonprofit" target="_blank" rel="noopener">Patreon</a>.</p>
+<p><a href="./initiatives.html#natural-farming-fertilizer-assistant-chatbot" class="btn btn-primary">Support →</a></p>
 </section>
-<section id="contact-us" class="level2">
-<h2 data-anchor-id="contact-us">Contact Us</h2>
-<p><a href="mailto:copyleftcultivars@gmail.com">copyleftcultivars@gmail.com</a></p>
-<p><a href="mailto:copyleftcultivars@gmail.com" class="btn btn-outline-primary" role="button">Contact Us</a></p>
+</section>
+<section id="why-this-work-matters-now" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-work-matters-now">Why this work matters now</h2>
+<p>Growing seasons, rainfall, and pest pressures are shifting faster than most crops can adapt. The varieties that will carry us through, from drought-hardy landraces to plants that rebuild damaged soils, often live in small farms, home gardens, and traditional food systems. Plant genomics can help us understand and breed for resilience. Those tools should strengthen the people who keep these plants alive, and their future generations should stay in the hands of community.</p>
+</section>
+<section id="grow-the-commons-with-us" class="level2">
+<h2 class="anchored" data-anchor-id="grow-the-commons-with-us">Grow the commons with us</h2>
+<p>Monthly supporters keep our tools free for land stewards, farmers, conservationists, researchers, and plant lovers worldwide.</p>
+<p><a href="https://www.patreon.com/CopyleftCultivarsNonprofit" class="btn btn-primary" target="_blank" rel="noopener">Patreon</a> <a href="./support.html#donate" class="btn btn-outline-primary">Donate</a></p>
 
 
 </section>
-</main>  
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
