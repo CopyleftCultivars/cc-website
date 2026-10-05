@@ -1,5 +1,5 @@
 ---
-title: "About Copyleft Cultivars"
+title: "Our Mission"
 ---
 
 ::: {#our-mission .about-intro}

@@ -14,7 +14,7 @@ website:
         href: index.qmd
       - text: "About"
         menu:
-          - text: "Mission"
+          - text: "Our Mission"
             href: about.qmd#our-mission
           - text: "Who we are"
             href: about.qmd#who-we-are
