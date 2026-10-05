@@ -27,7 +27,7 @@ website:
           - text: "Agriculture Assistant"
             href: initiatives.qmd#regenerative-agriculture-assistant
       - text: "The Regenerative Relations Initiative"
-        href: initiatives.qmd#regenerative-relations-initiative
+        href: regenerative-relations-initiative.qmd
       - text: "Genomic Galaxy"
         href: genomic-galaxy.qmd
       - text: "Support"

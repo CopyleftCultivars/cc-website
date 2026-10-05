@@ -2,9 +2,7 @@
 title: "Freedom Bag Tag"
 ---
 
-## The Freedom Bag Tag {#freedom-bag-tag}
-
-### Keep seeds free for future generations
+## Keep seeds free for future generations {#freedom-bag-tag}
 
 Commercial seed packets often come with a “bag tag” that prohibits saving,
 replanting, or sharing seeds. The Freedom Bag Tag turns that logic around. It is

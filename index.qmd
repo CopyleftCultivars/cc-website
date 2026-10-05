@@ -31,11 +31,11 @@ A collaboratively created seed-packet label that keeps seeds and their future ge
 :::
 
 ::: {.work-card}
-### [Regenerative Relations Initiative](initiatives.qmd#regenerative-relations-initiative)
+### [Regenerative Relations Initiative](regenerative-relations-initiative.qmd)
 
 Relationship-based collaboration with land-based communities on land stewardship, conservation, environmental restoration, and data governance.
 
-[Learn More →](initiatives.qmd#regenerative-relations-initiative)
+[Learn More →](regenerative-relations-initiative.qmd)
 :::
 
 ::: {.work-card}

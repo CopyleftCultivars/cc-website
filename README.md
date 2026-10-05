@@ -57,7 +57,7 @@ If port 4200 is taken: `quarto preview --port 4444`.
 
 | Path | Purpose |
 | --- | --- |
-| `*.qmd` | One file per page — `index`, `about`, `preservation`, `initiatives`, `genomic-galaxy`, `events`, `news`, `support` |
+| `*.qmd` | One file per page — `index`, `about`, `preservation`, `initiatives`, `regenerative-relations-initiative`, `genomic-galaxy`, `events`, `news`, `support` |
 | `news/*.qmd` | News posts. Listed manually in `news.qmd`, newest first. |
 | `_quarto.yml` | Site config: navbar, footer, page list, HTML format options |
 | `_brand.yml` | Brand colors and fonts (used by the `brand` theme) |
