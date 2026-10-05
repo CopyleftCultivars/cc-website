@@ -29,9 +29,7 @@ website:
             href: preservation.qmd#freedom-bag-tag
           - text: "---"
           - text: "Agriculture Assistant"
-            href: https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4
-            target: _blank
-            rel: noopener
+            href: initiatives.qmd#regenerative-agriculture-assistant
       - text: "Regenerative Relations Initiative"
         href: initiatives.qmd#regenerative-relations-initiative
       - text: "Genomic Galaxy"

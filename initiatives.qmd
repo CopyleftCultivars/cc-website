@@ -3,10 +3,6 @@ title: "Initiatives"
 pagetitle: "Initiatives — Copyleft Cultivars"
 ---
 
-Programs and tools built with our community. Each one works toward the same goal:
-keeping the genetics, knowledge, and practices that sustain vulnerable plants in the
-hands of the people who care for them.
-
 ## The Regenerative Relations Initiative {#regenerative-relations-initiative}
 
 Indigenous Traditional Ecological and Cultural Knowledge (ITECK) systems have sustained species-rich ecosystems for millennia through intentional stewardship and deep, place-based relationships. Through the Regenerative Relations Initiative (RRI), Copyleft Cultivars offers our community, our collective resources and tools to support the continuance of ITECK systems that communities have stewarded since time immemorial.
@@ -45,21 +41,23 @@ This work is currently self-funded while grant support is pursued.
 
 Communities and organizations interested in building a relationship with us can reach the RRI team at [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
 
-## Natural Farming Fertilizer Assistant Chatbot
+## The Regenerative Agriculture Assistant {#regenerative-agriculture-assistant}
 
-Conventional farming is hard, expensive, and hurts the environment. Getting help
-for sustainable practices is costly and slow. Copyleft Cultivars offers on-demand AI
-assistants for regenerative farming through web apps and voice interfaces. Our beta
-has over 700 testers and over 100 supporting users across 8 countries and 40 farms,
-helping both small farms and large productions. Users have interacted with our
-chatbot in more than 100 languages. We are prototyping new AI assistants which work
-even without internet access and in various languages, with agronomic precision.
+### Farming knowledge for everyone
 
-Copyleft Cultivars' Natural Farming Fertilizer Assistant Chatbot aims to create
-customized, localized, free Natural Farming fertilizer recipes, most of which can be
-made with local free ingredients.
+Good agriculture advice has long depended on where you live, what language you speak, and whether you can afford an agronomist. The Regenerative Agriculture Assistant (RAA) opens these knowledges to anyone with a cell phone or computer. You can ask the RAA about planting times, pest problems, seed saving, composting, or what to grow in poor soil. The RAA brings together contemporary agricultural science with ITECK, so traditional practices sit alongside modern techniques.
 
-[Access Our Agriculture Assistant](https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4){.btn .btn-primary role="button" target="_blank" rel="noopener"}
+[Open the Agriculture Assistant](https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4){.btn .btn-primary role="button" target="_blank" rel="noopener"}
+
+### Improve Soil Health
+
+Building organic matter, cover cropping, composting, and restoring soil.
+
+### Be flexible amidst changing conditions
+
+Choosing and growing crops as seasons, rainfall, and pests shift.
+
+Threatened plants survive when the people who grow them thrive. Every farmer who can keep a traditional variety healthy and productive is keeping that variety alive. By supporting growers directly, the Regenerative Agriculture Assistant strengthens the communities who hold the world's plant genetic variety in their fields and gardens.
 
 ## Hugging Face
 
