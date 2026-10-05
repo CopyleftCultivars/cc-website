@@ -6,8 +6,6 @@ title: "The Regenerative Agriculture Assistant"
 
 Good agriculture advice has long depended on where you live, what language you speak, and whether you can afford an agronomist. The Regenerative Agriculture Assistant (RAA) opens these knowledges to anyone with a cell phone or computer. You can ask the RAA about planting times, pest problems, seed saving, composting, or what to grow in poor soil. The RAA brings together contemporary agricultural science with ITECK, so traditional practices sit alongside modern techniques.
 
-[Open the Agriculture Assistant](https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4){.btn .btn-primary role="button" target="_blank" rel="noopener"}
-
 ### Improve Soil Health
 
 Building organic matter, cover cropping, composting, and restoring soil.
