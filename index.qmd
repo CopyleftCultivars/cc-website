@@ -71,4 +71,3 @@ Growing seasons, rainfall, and pest pressures are shifting faster than most crop
 Monthly supporters keep our tools free for land stewards, farmers, conservationists, researchers, and plant lovers worldwide.
 
 [Patreon](https://www.patreon.com/CopyleftCultivarsNonprofit){.btn .btn-primary target="_blank" rel="noopener"}
-[Donate](support.qmd#donate){.btn .btn-outline-primary}
