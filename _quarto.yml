@@ -22,10 +22,12 @@ website:
             href: about.qmd#the-commons
       - text: "Resources"
         menu:
-          - text: "The Regenerative Relations Initiative"
-            href: initiatives.qmd#regenerative-relations-initiative
+          - text: "Freedom Bag Tag"
+            href: preservation.qmd#freedom-bag-tag
           - text: "Agriculture Assistant"
             href: initiatives.qmd#regenerative-agriculture-assistant
+      - text: "The Regenerative Relations Initiative"
+        href: initiatives.qmd#regenerative-relations-initiative
       - text: "Genomic Galaxy"
         href: genomic-galaxy.qmd
       - text: "Support"

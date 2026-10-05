@@ -70,8 +70,9 @@ If port 4200 is taken: `quarto preview --port 4444`.
 - **Adding or renaming a page** means updating the `website.navbar` list in
   `_quarto.yml`, or it won't appear in the menu.
 - **The navbar follows this structure:** Home; About (Our Mission, Who we are,
-  The Commons); Resources (The Regenerative Relations Initiative, Agriculture
-  Assistant); Genomic Galaxy; Support (Donate, Volunteer, Patreon). Clicking a menu header opens
+  The Commons); Resources (Freedom Bag Tag, Agriculture Assistant); The
+  Regenerative Relations Initiative; Genomic Galaxy; Support (Donate, Volunteer,
+  Patreon). Clicking a menu header opens
   its dropdown. Menu links point to page sections with anchors or directly to an
   external resource. When you add or rename a section heading, update its matching
   `href` in `_quarto.yml` — anchors are derived from heading text unless a heading
