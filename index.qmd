@@ -54,14 +54,6 @@ A free multilingual chatbot offering regenerative agricultural knowledge, includ
 
 :::
 
-::: {.work-support}
-### Make this work possible
-
-Support this project on [Patreon](https://www.patreon.com/CopyleftCultivarsNonprofit){target="_blank" rel="noopener"}.
-
-[Support →](initiatives.qmd#regenerative-agriculture-assistant){.btn .btn-primary}
-:::
-
 ## Why this work matters now
 
 Growing seasons, rainfall, and pest pressures are shifting faster than most crops can adapt. The varieties that will carry us through, from drought-hardy landraces to plants that rebuild damaged soils, often live in small farms, home gardens, and traditional food systems. Plant genomics can help us understand and breed for resilience. Those tools should strengthen the people who keep these plants alive, and their future generations should stay in the hands of community.
