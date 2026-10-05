@@ -63,9 +63,3 @@ Threatened plants survive when the people who grow them thrive. Every farmer who
 View our open-source collections, spaces, models, and datasets.
 
 [Hugging Face Hub](https://huggingface.co/CopyleftCultivars){.btn .btn-outline-primary role="button"}
-
----
-
-Except where otherwise noted, all works and content on this site are licensed
-under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) +
-[Copyleft Cultivars commercial rights and responsibilities](https://docs.google.com/document/d/1Gd6HGxs9KnS8nBdjXq5GLf46l6HCpr1xTKfTaF2yfrA/edit?usp=sharing).
