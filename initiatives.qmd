@@ -1,10 +1,8 @@
 ---
-title: "Resources"
+title: "The Regenerative Agriculture Assistant"
 ---
 
-## The Regenerative Agriculture Assistant {#regenerative-agriculture-assistant}
-
-### Farming knowledge for everyone
+## Farming knowledge for everyone {#regenerative-agriculture-assistant}
 
 Good agriculture advice has long depended on where you live, what language you speak, and whether you can afford an agronomist. The Regenerative Agriculture Assistant (RAA) opens these knowledges to anyone with a cell phone or computer. You can ask the RAA about planting times, pest problems, seed saving, composting, or what to grow in poor soil. The RAA brings together contemporary agricultural science with ITECK, so traditional practices sit alongside modern techniques.
 
