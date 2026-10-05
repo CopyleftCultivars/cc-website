@@ -4,6 +4,10 @@
   max-height: 40px;
 }
 
+.nav-footer .nav-footer-right {
+  text-align: right;
+}
+
 /* Group the Freedom Bag Tag links within the Resources dropdown. */
 .navbar .dropdown-menu > li.dropdown-header + li .dropdown-item,
 .navbar .dropdown-menu > li.dropdown-header + li + li .dropdown-item {
@@ -92,6 +96,26 @@
   margin: 1.5rem 0 2rem;
   font-size: 1.15rem;
   line-height: 1.75;
+}
+
+.genomic-galaxy-page .quarto-title-block .quarto-title .title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.genomic-galaxy-page .quarto-title-block .quarto-title .title::after {
+  content: "In Development";
+  display: inline-block;
+  border: 1px solid rgba(var(--bs-primary-rgb), 0.35);
+  border-radius: 999px;
+  background: rgba(var(--bs-primary-rgb), 0.1);
+  color: rgb(var(--bs-primary-rgb));
+  padding: 0.3rem 0.7rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.3;
 }
 
 /* Rounded images (used for page banners) */

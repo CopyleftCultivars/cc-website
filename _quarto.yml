@@ -35,7 +35,7 @@ website:
       - text: "Regenerative Relations Initiative"
         href: initiatives.qmd#regenerative-relations-initiative
       - text: "Genomic Galaxy"
-        href: faq.qmd#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars
+        href: genomic-galaxy.qmd
       - text: "FAQ"
         href: faq.qmd
       - text: "Support"
@@ -61,6 +61,8 @@ website:
         href: https://www.patreon.com/CopyleftCultivarsNonprofit
       - text: "Subscribe"
         href: https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform
+    right: |
+      Copyleft Cultivars is a registered 501(c)3 non-profit organization. Donations are tax-deductible. EIN: 87-3765168
 
 format:
   html:

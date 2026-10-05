@@ -7,27 +7,43 @@ Programs and tools built with our community. Each one works toward the same goal
 keeping the genetics, knowledge, and practices that sustain vulnerable plants in the
 hands of the people who care for them.
 
-## Regenerative Relations Initiative
+## The Regenerative Relations Initiative {#regenerative-relations-initiative}
 
-Indigenous Knowledge Systems have sustained biodiverse ecosystems for millennia
-through intentional stewardship and deep place-based ecological relationships. The
-Regenerative Relations Initiative recognizes that Indigenous leadership in food
-sovereignty, data sovereignty, and land stewardship offers proven pathways toward
-ecological resilience and cultural revitalization. Through this initiative, Copyleft
-Cultivars seeks to honor and strengthen these knowledge systems by supporting seven
-Indigenous communities in their ongoing work of maintaining reciprocal relationships
-with land, water, and plant relatives while building regenerative futures rooted in
-traditional ecological and cultural knowledge.
+Indigenous Traditional Ecological and Cultural Knowledge (ITECK) systems have sustained species-rich ecosystems for millennia through intentional stewardship and deep, place-based relationships. Through the Regenerative Relations Initiative (RRI), Copyleft Cultivars offers our community, our collective resources and tools to support the continuance of ITECK systems that communities have stewarded since time immemorial.
 
-Copyleft Cultivars invites Indigenous communities to join our inaugural Regenerative
-Relations Initiative (RRI) cohort, an international network focused on advancing land
-stewardship, food sovereignty, and data sovereignty through Indigenous-led
-regenerative practices.
+### Community Data Governance
 
-If you have any questions, please reach out to us at
-[regenerativerelations@gmail.com](mailto:regenerativerelations@gmail.com).
+A critical element of RRI’s vision and work is uplifting and protecting a community’s right to govern their data.
 
-[Inaugural Cohort Announcement](https://docs.google.com/document/d/1xlIvfG9_6Mpz1KFiu3_ikssNfVE6XoWD0zvmQDLC85U/edit){.btn .btn-outline-primary role="button"}
+### Protecting Community Knowledge
+
+We believe it is important for communities to inform and define how their ecological and traditional knowledge is collected, stored, shared, and protected in open-source and copyleft frameworks.
+
+### Community-Defined Protocols & Protections
+
+This work is only possible with relationship building:
+
+- Community leadership sets the direction of project engagement, and support is shaped around each territory’s own priorities and protocols.
+- Reciprocal relationships with land, water, and plant relatives guide our work.
+- Communities retain full authority over their own knowledge and data.
+
+### Conservation & Land Stewardship
+
+We stand with communities caring for their lands and waters in the face of unregulated extraction and monoculture expansion. The support we will offer to partnering communities in land restoration and conservation will be customized to each community’s ecological context, connecting them with relevant expertise and resources.
+
+### Building Relationships
+
+We are in early relationship-building with communities in Turtle Island and Abya Yala. Our long-term hope is to cultivate a genuine peer network where land-based communities exchange strategies and support directly. This is an early, unrealized idea that we intend to grow toward together. We do not yet have a cohort, fixed timeline, or set schedule of meetings. RRI partnerships are still taking shape, initially as a direct relationship between a community and ours.
+
+#### Direct Site Visits
+
+Our Director of Indigenous Relations and Collaborative Research has personally traveled to visit communities, begin building relationships, and gain a firsthand understanding of their context.
+
+This work is currently self-funded while grant support is pursued.
+
+### Get in touch
+
+Communities and organizations interested in building a relationship with us can reach the RRI team at [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
 
 ## Natural Farming Fertilizer Assistant Chatbot
 

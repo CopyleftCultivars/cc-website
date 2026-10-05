@@ -39,7 +39,7 @@ Relationship-based collaboration with land-based communities on land stewardship
 :::
 
 ::: {.work-card}
-### [Genomic Galaxy](faq.qmd#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars)
+### [Genomic Galaxy](genomic-galaxy.qmd)
 
 A shared commons in development for newly bred plant varieties, fostering resiliency and adaptability while protecting plants and plant relations for research and future generations.
 :::

@@ -1,0 +1,35 @@
+---
+title: "Genomic Galaxy"
+body-classes: genomic-galaxy-page
+---
+
+## Open varieties for changing growing conditions
+
+We are thrilled to share that infrastructure for the Genomic Galaxy is under development. Copyleft Cultivars envisions the Genomic Galaxy as an open commons for newly bred plant varieties. Once launched, each variety submitted will be copylefted to prevent its lineage from being privatized.
+
+## Why are we building a Genomic Galaxy?
+
+As growing seasons shift, land stewards and breeders around the world are developing plants that can tolerate heat, drought, flooding, salt, new pests, and rapidly changing ecological factors. Others are breeding plants that help heal damaged land by holding soil, fixing nitrogen, or drawing contaminants out of the ground. These varieties will serve some of the most critical environmental functions for the century to come.
+
+The Genomic Galaxy is being built to keep these plants in relationship with the communities and biomes where their adaptability and resilience will play a critical role in supporting life on our beloved home, Earth.
+
+## The future of plant genomics
+
+Portable sequencers and falling costs now let small labs, seed libraries, and communities read plant genomes that once required a major research university. This shift opens exciting possibilities:
+
+- Identifying the genetic traits behind resilience in different plant varieties.
+- Documenting a variety’s lineage so it can be recognized and protected as open.
+- Guiding community breeding programs toward drought, heat, flood, and pest resilience.
+- Supporting community data governance and community-led labs that pair genomic research with Indigenous Traditional Ecological and Cultural Knowledge (ITECK).
+
+## Join the Genomic Galaxy
+
+We are building the infrastructure, data governance frameworks, and bioinformatics tools to honor those who contribute to the collective knowledge system. We invite you to join us!
+
+### Contact us
+
+For general inquiries, email [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
+
+### Be an early contributor
+
+Breeders, seed savers, and restoration practitioners with a new or locally adapted variety can reach out now to be among the first contributors when the Genomic Galaxy opens. Sequence data submitted for Freedom Bag Tag cultivars will help form its foundation. [Contact us](mailto:copyleftcultivars@gmail.com) to get involved.
