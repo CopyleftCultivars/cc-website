@@ -6,11 +6,15 @@ title: "Our Mission"
 Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity.
 :::
 
-## A community commons for vulnerable plants {#a-community-commons-for-vulnerable-plants}
+## Who we are {#who-we-are}
+
+Our team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property.
+
+## The Commons {#the-commons}
+
+### A community commons for vulnerable plants {#a-community-commons-for-vulnerable-plants}
 
 Here, “vulnerable” describes wild and cultivated plants whose survival, diversity, or continued care by communities is at risk. These risks can include habitat loss, changing growing conditions, and barriers to saving, sharing, or stewarding seeds and plant knowledge. We use the term broadly, rather than as a formal conservation-status category.
-
-### Who we are {#who-we-are}
 
 We are building a commons where plants and community knowledges meet to co-create a more resilient future. Whether you come from a background in farming, gardening, academia, conservation, ecological restoration, plant breeding, or land stewardship, you are welcome here.
 
@@ -19,7 +23,5 @@ We are building a commons where plants and community knowledges meet to co-creat
 Healthy plants need living soil. Our tools and partnerships share practices and knowledges for rebuilding and restoring degraded ground or eroded land.
 
 ### Plant Genomics for Ecological Resilience
-
-Our team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property.
 
 Because claims of ownership can sever people’s ability to stay in relationship with knowledge and with plant relatives, our open-source tools are designed to strengthen those relationships and keep them intact.

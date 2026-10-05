@@ -19,15 +19,9 @@ website:
           - text: "Who we are"
             href: about.qmd#who-we-are
           - text: "The Commons"
-            href: about.qmd#a-community-commons-for-vulnerable-plants
+            href: about.qmd#the-commons
       - text: "Resources"
         menu:
-          - text: "Freedom Bag Tag"
-          - text: "V2 (English & Spanish)"
-            href: preservation.qmd#freedom-bag-tag
-          - text: "OGV"
-            href: preservation.qmd#freedom-bag-tag
-          - text: "---"
           - text: "Agriculture Assistant"
             href: initiatives.qmd#regenerative-agriculture-assistant
       - text: "Regenerative Relations Initiative"
