@@ -1,8 +1,11 @@
 ---
 title: "FAQ"
+toc-depth: 2
 ---
 
-## What is Copyleft?
+## Copyleft Basics
+
+### What is Copyleft?
 
 According to GNU (who originated the copyleft license widely used in software),
 "Copyleft is a general method for making a program (or other work) free (in the
@@ -14,7 +17,7 @@ freedom and collaboration. The term Copyleft is a play on the word Copyright,
 because it is valid by copyright and contract laws yet flips copyright on its head
 by having an open collaborative approach to using those rights.
 
-## What is the Open Source Plants Movement?
+### What is the Open Source Plants Movement?
 
 The Open Source Plants Movement is a new wave of OpenBio movement which brings
 together the traditional open-source sentiments of strength through community,
@@ -23,7 +26,7 @@ Indigenous perspectives, and the realities of plant breeding. The OpenBio moveme
 came out of the open-source software movement and has gotten global recognition in
 recent years.
 
-## How does Copyleft apply to plant medicines?
+### How does Copyleft apply to plant medicines?
 
 It is reasonable to infer that copyright rights are due to plant breeders who write
 genetic code in a similar way as software programmers and film script writers have
@@ -41,7 +44,9 @@ open-source community good and thereby deter issues for the creator as well as
 users, and prevent prohibition-by-patent, entrenching the freedom of its users and
 the right to repair.
 
-## How do we help the preservation of plant medicine genetics?
+## Preservation & Protection
+
+### How do we help the preservation of plant medicine genetics?
 
 In a world which is rapidly changing, the genetics information and history of
 medicinal plant cultivars/strains is highly threatened. We believe that greater
@@ -61,7 +66,7 @@ community sharing of information and material access, thereby improving long-ter
 survival and proliferation of important varied genetic material and plant medicine
 information.
 
-## How does the community benefit from our Copyleft approach?
+### How does the community benefit from our Copyleft approach?
 
 Among additional benefits to the community, the Copyleft systems may:
 
@@ -80,7 +85,7 @@ Among additional benefits to the community, the Copyleft systems may:
 - Assure availability of freedom-assured and constantly updating breeding stock for
   new and established breeders.
 
-## How do open source seeds benefit farmers?
+### How do open source seeds benefit farmers?
 
 The Open Source Seed Initiative, a group which protects vegetables in a similar but
 less enforceable method to our system, put it very well:
@@ -96,7 +101,7 @@ less enforceable method to our system, put it very well:
 > Open source, unrestricted seed allows the farmer to plant again if the patented
 > seeds are unavailable, unwanted, or unaffordable."
 
-## Why do breeders & cultivators need protection and defense for the medicinal plant cultivars they work with?
+### Why do breeders & cultivators need protection and defense for the medicinal plant cultivars they work with?
 
 Once the Federal Court System is open to medicinal plants IP litigation, as with all
 established industries as they emerge, breeders and cultivators will face many new
@@ -115,7 +120,7 @@ Breeders and cultivators must ask themselves, "Do I have the financial war chest
 legal expertise, and personal stress tolerance to handle being involved in Federal
 Court Intellectual Property (IP) litigation?"
 
-## How can Copyleft Cultivars protect the people and plant medicines within the commons?
+### How can Copyleft Cultivars protect the people and plant medicines within the commons?
 
 Creating a nonprofit organization with intervenor rights via the copyleft license
 allows for the nonprofit to step into legal issues related to the Copyleft protected
@@ -125,7 +130,9 @@ community members), the community commons ecosystem, and the people who are a pa
 it. This also helps assure the continued biodiversity of the medicine plants and
 gather data that will be available for research that benefits the community.
 
-## Can I still make money with my seeds and/or plant products if they are open source?
+## Business & Licensing
+
+### Can I still make money with my seeds and/or plant products if they are open source?
 
 Yes! Breeders and cultivators can still sell their products as they would otherwise,
 now with the additional peace of mind knowing they are protected and that they have
@@ -133,7 +140,7 @@ contributed to a brighter future for the community and for themselves. This may 
 increase real market value and sales, because of the plethora of consumer benefits,
 as it has with open-source software.
 
-## How can the Copyleft license facilitate the safety of my business?
+### How can the Copyleft license facilitate the safety of my business?
 
 The Copyleft License is crafted to help assure your safety and protect you in your
 breeding, production, sales, services, etc. This is done by protecting you and the
@@ -149,7 +156,7 @@ fight and allowing you to focus on your life and livelihood instead. This protec
 can be seen as value-added for the product you distribute and the cultivars you
 create.
 
-## Ok, but is open source an effective business model?
+### Ok, but is open source an effective business model?
 
 Yes, open source is a very effective business model. It consistently gives
 competitive advantage and larger market share. In fact, open-source software now
@@ -172,7 +179,7 @@ And further,
 > Accordingly, an open source play for ubiquity is quite likely to have a higher
 > long-term payoff than a closed-source play for rent from intellectual property."
 
-## Is Copyleft Cultivars' approach compatible or adversarial with other intellectual property protections, such as trademarking and patenting?
+### Is Copyleft Cultivars' approach compatible or adversarial with other intellectual property protections, such as trademarking and patenting?
 
 Our Copyleft system is compatible and complementary with most other forms of
 intellectual property protections, so long as they refrain from perpetrating
@@ -189,7 +196,31 @@ and PVPA rights holders in the medicinal plants space that will together support
 other and prevent in-fighting, thereby creating a robust backbone for community
 defense on a larger scale.
 
-## If I pledge a cultivar, do I need to release the seeds publicly?
+### How does this benefit breeders contracted or employed by private companies?
+
+Agreeing with your employer or contractor to Copyleft Pledge the cultivars you develop
+in your work with them has many benefits for you and your employer. For breeders, it
+will protect them from losing access to their work upon termination, which is
+unfortunately common with closed-source agriculture. A quick overview of the most
+expensive IP litigation cases involving strawberries shows this is a major and
+recurring concern from contracted or employed breeders. We are working on a form
+contract that can be used in this case to protect the breeder and the other parties in
+formal breeding collaborations.
+
+### Can I charge royalties for commercial use of the genetics I submit to Copyleft Cultivars?
+
+Our license is intended to assure freedom, without affecting your ability to make money
+from your work. If you wish to add commercial use-terms for royalties you may be free
+to pursue creating those terms with separate legal services. We cannot give you legal
+advice regarding royalties on copyleft-protected cultivars. At all times, adherence to
+the license status of the cultivars is absolutely necessary. If you'd like to chat with
+us about pursuing this, please have your qualified legal assistance team or a law firm
+representing you reach out to our organization to explore that possibility,
+[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
+
+## Pledging, Seeds & Genetics
+
+### If I pledge a cultivar, do I need to release the seeds publicly?
 
 No, but it may be beneficial to the future of the cultivar. The standard Copyleft
 licenses do not affect nor require anything of how openly you do or do not distribute
@@ -201,7 +232,7 @@ duty of care to prevent human rights abuses by users of the cultivars, and ones 
 mandate physical seed sharing. The standard CCGL will not mandate seed sharing or any
 replication of the seeds, but does encourage it.
 
-## What about strains/varietals which have already been publicly released?
+### What about strains/varietals which have already been publicly released?
 
 New strains/cultivars must be pledged prior to wide public distribution in order to
 be protected by Copyleft. We cannot retroactively protect already-released cultivars,
@@ -214,7 +245,7 @@ exception is tester seed packets which were distributed in limited quantities al
 with an explicit written notice that they are "Tester Seeds" or "For Test Purposes
 Only."
 
-## Can you help me with legal troubles involving non-copylefted cultivars?
+### Can you help me with legal troubles involving non-copylefted cultivars?
 
 Unfortunately not. The Beneficiary Intervenor Status of the Copyleft Pledge gives us
 the ability to intervene in civil cases involving only the intellectual property asset
@@ -222,7 +253,7 @@ the ability to intervene in civil cases involving only the intellectual property
 cultivators, and other groups that use Copyleft pledged and protected cultivars which
 are in our database.
 
-## If I breed with a Copyleft protected cultivar, what is the IP status of the offspring?
+### If I breed with a Copyleft protected cultivar, what is the IP status of the offspring?
 
 The offspring of a Copyleft protected cultivar will themselves also be Copyleft
 protected. That means if they are distributed they must be distributed with the same
@@ -235,7 +266,36 @@ generations from a databased parent breeders may go without needing to again tes
 genetics and submit them to the database to continue the protections and contribute to
 scientific advancement.
 
-## Who is behind Copyleft Cultivars?
+### What will Copyleft Cultivars do with the genetic sequences of submitted cultivars?
+
+We aim to assemble a public genetics nexus with submitted cultivars. The genetic
+information will be put in the genetic library which links it to similar genetic
+strains/varietals in an interactive data visualization, made publicly available. In
+this, we will register the breeder as the public originator of the genetics, thereby
+putting to rest any community controversy regarding who bred which strain and the
+breeding history if bred from already-pledged cultivars. Ideally we will then be able
+to link to allied seed banks where they will offer certified seeds for the
+copyleft-protected cultivars/strains.
+
+### What will be the notice for Copyleft Cultivars protected seeds?
+
+There will be a bag tag (use license label) for each license. The core protection
+license, CCGL (Copyleft Cultivar Genetics License), has a bag tag in its main
+text. We also have a community-created stand-alone bag tag that carries some but not
+all of the benefits and protections of the CCGL and is much less solidly enforceable.
+
+### Where can I get Copyleft Cultivars pledged seeds?
+
+Copyleft Cultivars is not a seed company. Rather, we will work with seed companies who
+are interested in supporting our mission. When up and running, we will link cultivars
+in our public database to where they are available on seed banks. They may also be
+available directly from the plant breeder, depending on the variety. If you are a seed
+company who would like to be more directly involved, please email
+[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
+
+## The Organization
+
+### Who is behind Copyleft Cultivars?
 
 We are a small group of individual community members, many of us from the plant
 medicine movement, driven by the desire to help protect the medicinal plants and
@@ -246,14 +306,14 @@ spaces of assured freedom.
 
 We are completely free of any direct founding influence from any for-profit company.
 
-## Why a nonprofit?
+### Why a nonprofit?
 
 To protect the integrity of our mission, the organization will be a nonprofit, bound
 by its filings to serve the community instead of having any shareholders. The legal
 documents which form the backbone of the organization are drafted very carefully to
 make profit-driven exploitation and corporate piracy impossible.
 
-## Will the Copyleft Cultivars database ever be used by the organization for private breeding of any sort?
+### Will the Copyleft Cultivars database ever be used by the organization for private breeding of any sort?
 
 Notably, we will never use, and won't even be able to use, the genetic information
 submitted to develop privatized cultivars nor to pitch investors secret proprietary
@@ -265,36 +325,7 @@ from privatizing them or their offspring.
 profit-making, such as producing products, i.e. seeds or flower, as explained briefly
 in other questions here.)
 
-## What will Copyleft Cultivars do with the genetic sequences of submitted cultivars?
-
-We aim to assemble a public genetics nexus with submitted cultivars. The genetic
-information will be put in the genetic library which links it to similar genetic
-strains/varietals in an interactive data visualization, made publicly available. In
-this, we will register the breeder as the public originator of the genetics, thereby
-putting to rest any community controversy regarding who bred which strain and the
-breeding history if bred from already-pledged cultivars. Ideally we will then be able
-to link to allied seed banks where they will offer certified seeds for the
-copyleft-protected cultivars/strains.
-
-## What will be the notice for Copyleft Cultivars protected seeds?
-
-There will be a bag tag (use license label) for each license. The core protection
-license, CCGL (Copyleft Cultivar Genetics License), has a bag tag in its main
-text. We also have a community-created stand-alone bag tag that carries some but not
-all of the benefits and protections of the CCGL and is much less solidly enforceable.
-
-## How does this benefit breeders contracted or employed by private companies?
-
-Agreeing with your employer or contractor to Copyleft Pledge the cultivars you develop
-in your work with them has many benefits for you and your employer. For breeders, it
-will protect them from losing access to their work upon termination, which is
-unfortunately common with closed-source agriculture. A quick overview of the most
-expensive IP litigation cases involving strawberries shows this is a major and
-recurring concern from contracted or employed breeders. We are working on a form
-contract that can be used in this case to protect the breeder and the other parties in
-formal breeding collaborations.
-
-## What legal jurisdiction is / will this be in?
+### What legal jurisdiction is / will this be in?
 
 We are formed as a domestic nonprofit in Oregon because of the location of some of our
 founders and the favorable jurisdiction to this type of work, medicinal plants
@@ -302,7 +333,7 @@ freedoms, and farmer freedom. Our systems will serve the whole country and, if
 possible, also the whole world, toward interconnecting the global medicinal plant
 ecosystem to prioritize farmer freedom, collaboration, and common good!
 
-## Will there be a dispute process?
+### Will there be a dispute process?
 
 Yes there will be, and it will first have a non-court arbitration option through our
 organization, facilitated by the genetics database and submitted evidence. This will
@@ -311,27 +342,7 @@ community. If absolutely necessary to protect the integrity of the copyleft
 protections and the database, civil courts may be used. We are working to envision this
 process and welcome your input.
 
-## Can I charge royalties for commercial use of the genetics I submit to Copyleft Cultivars?
-
-Our license is intended to assure freedom, without affecting your ability to make money
-from your work. If you wish to add commercial use-terms for royalties you may be free
-to pursue creating those terms with separate legal services. We cannot give you legal
-advice regarding royalties on copyleft-protected cultivars. At all times, adherence to
-the license status of the cultivars is absolutely necessary. If you'd like to chat with
-us about pursuing this, please have your qualified legal assistance team or a law firm
-representing you reach out to our organization to explore that possibility,
-[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
-
-## Where can I get Copyleft Cultivars pledged seeds?
-
-Copyleft Cultivars is not a seed company. Rather, we will work with seed companies who
-are interested in supporting our mission. When up and running, we will link cultivars
-in our public database to where they are available on seed banks. They may also be
-available directly from the plant breeder, depending on the variety. If you are a seed
-company who would like to be more directly involved, please email
-[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com).
-
-## How can I contribute skills or funds to make this happen?
+### How can I contribute skills or funds to make this happen?
 
 If you have skills you'd like to contribute, or funds, to Copyleft Cultivars, please
 email us at [copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com). We are

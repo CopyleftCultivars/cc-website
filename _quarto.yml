@@ -10,22 +10,44 @@ website:
     logo: images/logo.png
     title: "Copyleft Cultivars"
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: preservation.qmd
-        text: Preservation
-      - href: initiatives.qmd
-        text: Initiatives
-      - href: events.qmd
-        text: Events
-      - href: news.qmd
-        text: News
-      - href: faq.qmd
-        text: FAQ
-      - href: support.qmd
-        text: Support
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        menu:
+          - text: "Mission"
+            href: about.qmd#our-mission
+          - text: "Who we are"
+            href: about.qmd#who-we-are
+          - text: "The Commons"
+            href: about.qmd#a-community-commons-for-vulnerable-plants
+      - text: "Resources"
+        menu:
+          - text: "Freedom Bag Tag"
+          - text: "V2 (English & Spanish)"
+            href: preservation.qmd#freedom-bag-tag
+          - text: "OGV"
+            href: preservation.qmd#freedom-bag-tag
+          - text: "---"
+          - text: "Agriculture Assistant"
+            href: https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4
+            target: _blank
+            rel: noopener
+      - text: "Regenerative Relations Initiative"
+        href: initiatives.qmd#regenerative-relations-initiative
+      - text: "Genomic Galaxy"
+        href: faq.qmd#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars
+      - text: "FAQ"
+        href: faq.qmd
+      - text: "Support"
+        menu:
+          - text: "Donate"
+            href: support.qmd#donate
+          - text: "Volunteer"
+            href: support.qmd#volunteer
+          - text: "Patreon"
+            href: https://www.patreon.com/CopyleftCultivarsNonprofit
+            target: _blank
+            rel: noopener
   page-footer:
     border: true
     left: |
@@ -50,6 +72,3 @@ format:
     toc-location: right
     anchor-sections: true
     smooth-scroll: true
-
-
-

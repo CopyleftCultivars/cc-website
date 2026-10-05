@@ -7,7 +7,7 @@ Programs and tools built with our community. Each one works toward the same goal
 keeping the genetics, knowledge, and practices that sustain vulnerable plants in the
 hands of the people who care for them.
 
-# Regenerative Relations Initiative
+## Regenerative Relations Initiative
 
 Indigenous Knowledge Systems have sustained biodiverse ecosystems for millennia
 through intentional stewardship and deep place-based ecological relationships. The
@@ -29,7 +29,7 @@ If you have any questions, please reach out to us at
 
 [Inaugural Cohort Announcement](https://docs.google.com/document/d/1xlIvfG9_6Mpz1KFiu3_ikssNfVE6XoWD0zvmQDLC85U/edit){.btn .btn-outline-primary role="button"}
 
-# Natural Farming Fertilizer Assistant Chatbot
+## Natural Farming Fertilizer Assistant Chatbot
 
 Conventional farming is hard, expensive, and hurts the environment. Getting help
 for sustainable practices is costly and slow. Copyleft Cultivars offers on-demand AI
@@ -43,9 +43,9 @@ Copyleft Cultivars' Natural Farming Fertilizer Assistant Chatbot aims to create
 customized, localized, free Natural Farming fertilizer recipes, most of which can be
 made with local free ingredients.
 
-[Access Our Agriculture Assistant](https://www.patreon.com/CopyleftCultivarsNonprofit){.btn .btn-primary role="button"}
+[Access Our Agriculture Assistant](https://huggingface.co/spaces/CopyleftCultivars/natural-farming-chat-V4){.btn .btn-primary role="button" target="_blank" rel="noopener"}
 
-# Hugging Face
+## Hugging Face
 
 View our open-source collections, spaces, models, and datasets.
 

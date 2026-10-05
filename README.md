@@ -69,6 +69,22 @@ If port 4200 is taken: `quarto preview --port 4444`.
 
 - **Adding or renaming a page** means updating the `website.navbar` list in
   `_quarto.yml`, or it won't appear in the menu.
+- **The navbar follows this structure:** Home; About (Mission, Who we are, The
+  Commons); Resources (Freedom Bag Tag group with
+  indented V2 and OGV links, Agriculture Assistant); Regenerative Relations
+  Initiative; Genomic
+  Galaxy; FAQ; Support (Donate, Volunteer, Patreon). Clicking a menu header opens
+  its dropdown. Menu links point to page sections with anchors or directly to an
+  external resource. When you add or rename a section heading, update its matching
+  `href` in `_quarto.yml` — anchors are derived from heading text unless a heading
+  has an explicit ID.
+- **Navbar dropdowns have one menu level.** Quarto rejects submenus inside a
+  dropdown, so `Freedom Bag Tag` is a non-clickable group heading with indented
+  V2 and OGV links beneath it. The indentation is styled in `styles.css`.
+- **Page sections should be `##` (H2).** Quarto treats these as subsections under
+  the page title. A body heading written as `#` (H1) collides with the page title
+  and is left out of the right-hand "On this page" table of contents. Use H3 for
+  content nested within a section, such as individual FAQ questions.
 - **Adding an upcoming event:** `events.qmd` has a commented-out
   `<div class="event-card">…</div>` template under "Upcoming Events". Copy it,
   paste it above the comment, and edit the text.
@@ -88,6 +104,11 @@ If port 4200 is taken: `quarto preview --port 4444`.
   as the document contains top-level raw HTML, which can fight custom CSS. That
   is already neutralized for the events archive in `styles.css`; on new pages,
   prefer fenced divs (`::: {.my-class}`) over raw `<div>` blocks.
+- **FAQ is grouped into themes.** `faq.qmd` is organized into five `##` groups
+  (Copyleft Basics, Preservation & Protection, Business & Licensing, Pledging,
+  Seeds & Genetics, The Organization) with each question as an `###`.
+  `toc-depth: 2` keeps the right-hand TOC to the same five themes. Question
+  anchors come from the question text, so existing `#question` links keep working.
 - **Colors and fonts** live in `_brand.yml`, not in the theme CSS — Quarto
   recompiles the theme from there on every render.
 - `_site/`, `.quarto/`, and `_freeze/` are gitignored; never commit them.

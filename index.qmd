@@ -1,71 +1,74 @@
 ---
 title: "Copyleft Cultivars"
-pagetitle: "Copyleft Cultivars — A Global Movement"
+pagetitle: "Copyleft Cultivars"
 toc: false
-about:
-  template: jolla
-  image: images/logo.png
+body-classes: home-page
 ---
 
-### A Global Movement
+::: {.mission-hero}
 
-Bringing forth change through innovative collaboration.
+![Copyleft Cultivars logo](images/logo.png){.home-logo}
 
----
-
-## Support Our Mission
-
-We protect, publish, and preserve vulnerable plants — using copyleft, research,
-and education. To date we are 100% crowdfunded and rely on people like you to
-make this work possible.
-
-[Donate Now](https://www.patreon.com/CopyleftCultivarsNonprofit){.btn .btn-primary role="button"}
-
-## Subscribe
-
-Sign up to receive updates and learn more about our movement.
-
-[Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSehSxLrJkMRW9D8YgBJ9zqYBNcYPuu7aBUuEPVdqUOLR93XMw/viewform){.btn .btn-outline-primary role="button"}
-
-## Explore
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-### [About](about.qmd)
-Our mission and the community commons we are building for vulnerable plants.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [Preservation](preservation.qmd)
-Preservation through protection, community art, and the Freedom Bag Tag.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [Initiatives](initiatives.qmd)
-Programs and tools we build with the community, from Indigenous-led stewardship
-to open-source agricultural AI.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [Events](events.qmd)
-Upcoming gatherings and an archive of our past events.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [News](news.qmd)
-Announcements, collaborations, and milestones.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [FAQ](faq.qmd)
-Answers about copyleft, open-source plants, and how protection works.
+::: {.mission-copy}
+Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and
+preserve vulnerable plants by stewarding an ethical, open-access intellectual
+property commons, developing tools for communities to collect and share plant
+genomics, and supporting local communities to protect and preserve biodiversity.
 :::
 
 :::
 
-## Contact Us
+## Our Work
 
-[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com)
+::: {.home-work-grid}
 
-[Contact Us](mailto:copyleftcultivars@gmail.com){.btn .btn-outline-primary role="button"}
+::: {.work-card}
+### [Freedom Bag Tag](preservation.qmd#freedom-bag-tag)
+
+A collaboratively created seed-packet label that keeps seeds and their future generations free to save, replant, share, and breed.
+
+[Learn More →](preservation.qmd#freedom-bag-tag)
+:::
+
+::: {.work-card}
+### [Regenerative Relations Initiative](initiatives.qmd#regenerative-relations-initiative)
+
+Relationship-based collaboration with land-based communities on land stewardship, conservation, environmental restoration, and data governance.
+
+[Learn More →](initiatives.qmd#regenerative-relations-initiative)
+:::
+
+::: {.work-card}
+### [Genomic Galaxy](faq.qmd#what-will-copyleft-cultivars-do-with-the-genetic-sequences-of-submitted-cultivars)
+
+A shared commons in development for newly bred plant varieties, fostering resiliency and adaptability while protecting plants and plant relations for research and future generations.
+:::
+
+::: {.work-card}
+### [Regenerative Agriculture Assistant](initiatives.qmd#natural-farming-fertilizer-assistant-chatbot)
+
+A free multilingual chatbot offering regenerative agricultural knowledge, including guidance on natural traditional farming practices and soil health.
+
+[Learn More →](initiatives.qmd#natural-farming-fertilizer-assistant-chatbot)
+:::
+
+:::
+
+::: {.work-support}
+### Make this work possible
+
+Support this project on [Patreon](https://www.patreon.com/CopyleftCultivarsNonprofit){target="_blank" rel="noopener"}.
+
+[Support →](initiatives.qmd#natural-farming-fertilizer-assistant-chatbot){.btn .btn-primary}
+:::
+
+## Why this work matters now
+
+Growing seasons, rainfall, and pest pressures are shifting faster than most crops can adapt. The varieties that will carry us through, from drought-hardy landraces to plants that rebuild damaged soils, often live in small farms, home gardens, and traditional food systems. Plant genomics can help us understand and breed for resilience. Those tools should strengthen the people who keep these plants alive, and their future generations should stay in the hands of community.
+
+## Grow the commons with us
+
+Monthly supporters keep our tools free for land stewards, farmers, conservationists, researchers, and plant lovers worldwide.
+
+[Patreon](https://www.patreon.com/CopyleftCultivarsNonprofit){.btn .btn-primary target="_blank" rel="noopener"}
+[Donate](support.qmd#donate){.btn .btn-outline-primary}

@@ -2,7 +2,7 @@
 title: "Preservation"
 ---
 
-# Preservation Through Protection
+## Preservation Through Protection
 
 We are a community of plant breeders, cultivators, researchers, Indigenous
 Peoples, educators, consumers, creators, and artists. We are especially interested
@@ -14,9 +14,9 @@ We are alarmed by the rapid decrease in biodiversity across the planet and belie
 that urgent intervention must be made to promote a sustainable, biodiverse, and
 resilient ecology.
 
-# Preservation Through Community Art
+## Preservation Through Community Art
 
-## ~CommuniTree~
+### ~CommuniTree~
 
 We are collaborating with YOU to plant and grow the CommuniTree: a visual display
 of the Copyleft community's breeding artistry. Through compiling photos of the
@@ -28,7 +28,7 @@ farmer-breeders, community open art, and open science!
 
 *Upload function coming soon.*
 
-# Freedom Bag Tag
+## Freedom Bag Tag
 
 We are ecstatic to release the first ever community-created Copyleft bag tag that
 assures freedom of use for cultivars and the people who make and use them. It also
@@ -41,7 +41,7 @@ premade stickers to place on any package of seeds that you have created. Seeds m
 be your own original work. Freedom bag tag text must be visible on seed packets to
 assure protection.
 
-# Disclaimer
+## Disclaimer
 
 ::: {.callout-note appearance="simple"}
 The use of this license is subject to the following terms and conditions. No
