@@ -261,15 +261,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Copyleft Cultivars",
+    "title": "Our Mission",
     "section": "",
     "text": "Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity."
   },
   {
-    "objectID": "about.html#a-community-commons-for-vulnerable-plants",
-    "href": "about.html#a-community-commons-for-vulnerable-plants",
-    "title": "About Copyleft Cultivars",
-    "section": "A community commons for vulnerable plants",
-    "text": "A community commons for vulnerable plants\nHere, “vulnerable” describes wild and cultivated plants whose survival, diversity, or continued care by communities is at risk. These risks can include habitat loss, changing growing conditions, and barriers to saving, sharing, or stewarding seeds and plant knowledge. We use the term broadly, rather than as a formal conservation-status category.\n\nWho we are\nWe are building a commons where plants and community knowledges meet to co-create a more resilient future. Whether you come from a background in farming, gardening, academia, conservation, ecological restoration, plant breeding, or land stewardship, you are welcome here.\n\n\nSoil Health & Remediation\nHealthy plants need living soil. Our tools and partnerships share practices and knowledges for rebuilding and restoring degraded ground or eroded land.\n\n\nPlant Genomics for Ecological Resilience\nOur team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property.\nBecause claims of ownership can sever people’s ability to stay in relationship with knowledge and with plant relatives, our open-source tools are designed to strengthen those relationships and keep them intact."
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "Our Mission",
+    "section": "Who we are",
+    "text": "Who we are\nOur team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property."
+  },
+  {
+    "objectID": "about.html#the-commons",
+    "href": "about.html#the-commons",
+    "title": "Our Mission",
+    "section": "The Commons",
+    "text": "The Commons\n\nA community commons for vulnerable plants\nHere, “vulnerable” describes wild and cultivated plants whose survival, diversity, or continued care by communities is at risk. These risks can include habitat loss, changing growing conditions, and barriers to saving, sharing, or stewarding seeds and plant knowledge. We use the term broadly, rather than as a formal conservation-status category.\nWe are building a commons where plants and community knowledges meet to co-create a more resilient future. Whether you come from a background in farming, gardening, academia, conservation, ecological restoration, plant breeding, or land stewardship, you are welcome here.\n\n\nSoil Health & Remediation\nHealthy plants need living soil. Our tools and partnerships share practices and knowledges for rebuilding and restoring degraded ground or eroded land.\n\n\nPlant Genomics for Ecological Resilience\nBecause claims of ownership can sever people’s ability to stay in relationship with knowledge and with plant relatives, our open-source tools are designed to strengthen those relationships and keep them intact."
   }
 ]
