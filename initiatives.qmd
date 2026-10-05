@@ -1,6 +1,5 @@
 ---
-title: "Initiatives"
-pagetitle: "Initiatives — Copyleft Cultivars"
+title: "Resources"
 ---
 
 ## The Regenerative Relations Initiative {#regenerative-relations-initiative}

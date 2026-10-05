@@ -28,8 +28,6 @@ website:
             href: initiatives.qmd#regenerative-agriculture-assistant
       - text: "Genomic Galaxy"
         href: genomic-galaxy.qmd
-      - text: "FAQ"
-        href: faq.qmd
       - text: "Support"
         menu:
           - text: "Donate"
