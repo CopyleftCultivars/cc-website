@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "news/2026-09-29-collaboration.html",
-    "href": "news/2026-09-29-collaboration.html",
-    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
-    "section": "",
-    "text": "Placeholder announcement. The partner name and final details are still being confirmed — this post will be updated with the full announcement. Replace every [BRACKETED] item and delete this callout when the details are ready.\nWe are pleased to announce that Copyleft Cultivars is partnering with [PARTNER NAME] on [SHORT DESCRIPTION OF THE COLLABORATION]."
-  },
-  {
-    "objectID": "news/2026-09-29-collaboration.html#what-this-means",
-    "href": "news/2026-09-29-collaboration.html#what-this-means",
-    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
-    "section": "What this means",
-    "text": "What this means\n[Two or three sentences on what the collaboration actually does. Be concrete: what changes for breeders, growers, or communities as a result? Avoid mission-statement language here — say what will happen.]"
-  },
-  {
-    "objectID": "news/2026-09-29-collaboration.html#why-were-doing-it",
-    "href": "news/2026-09-29-collaboration.html#why-were-doing-it",
-    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
-    "section": "Why we’re doing it",
-    "text": "Why we’re doing it\n[One paragraph of context. What problem does this address, and why is this partner the right one to address it with?]"
-  },
-  {
-    "objectID": "news/2026-09-29-collaboration.html#whats-next",
-    "href": "news/2026-09-29-collaboration.html#whats-next",
-    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
-    "section": "What’s next",
-    "text": "What’s next\n[Concrete next steps and rough timing. If there is a public way to take part — a form, a mailing list, an event — link it here.]\n\n[Optional quote from a partner or from Copyleft Cultivars. Attribute it with a name and role.]"
-  },
-  {
-    "objectID": "news/2026-09-29-collaboration.html#learn-more",
-    "href": "news/2026-09-29-collaboration.html#learn-more",
-    "title": "Copyleft Cultivars announces a collaboration with [PARTNER NAME]",
-    "section": "Learn more",
-    "text": "Learn more\n\nLink to the partner’s site\nLink to the relevant project or document\nQuestions? Email copyleftcultivars@gmail.com.\n\n\nCopyleft Cultivars protects, publishes, and preserves vulnerable plants using copyleft, research, and education."
-  },
-  {
     "objectID": "initiatives.html",
     "href": "initiatives.html",
     "title": "The Regenerative Agriculture Assistant",
@@ -54,6 +19,139 @@
     "title": "The Regenerative Agriculture Assistant",
     "section": "Hugging Face",
     "text": "Hugging Face\nView our open-source collections, spaces, models, and datasets.\nHugging Face Hub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Our Mission",
+    "section": "",
+    "text": "Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity."
+  },
+  {
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "Our Mission",
+    "section": "Who we are",
+    "text": "Who we are\nOur team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property."
+  },
+  {
+    "objectID": "about.html#the-commons",
+    "href": "about.html#the-commons",
+    "title": "Our Mission",
+    "section": "The Commons",
+    "text": "The Commons\n\nA community commons for vulnerable plants\nHere, “vulnerable” describes wild and cultivated plants whose survival, diversity, or continued care by communities is at risk. These risks can include habitat loss, changing growing conditions, and barriers to saving, sharing, or stewarding seeds and plant knowledge. We use the term broadly, rather than as a formal conservation-status category.\nWe are building a commons where plants and community knowledges meet to co-create a more resilient future. Whether you come from a background in farming, gardening, academia, conservation, ecological restoration, plant breeding, or land stewardship, you are welcome here.\n\n\nSoil Health & Remediation\nHealthy plants need living soil. Our tools and partnerships share practices and knowledges for rebuilding and restoring degraded ground or eroded land.\n\n\nPlant Genomics for Ecological Resilience\nBecause claims of ownership can sever people’s ability to stay in relationship with knowledge and with plant relatives, our open-source tools are designed to strengthen those relationships and keep them intact."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Copyleft Cultivars",
+    "section": "",
+    "text": "Copyleft Cultivars logo\n\n\n\nCopyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity."
+  },
+  {
+    "objectID": "index.html#our-work",
+    "href": "index.html#our-work",
+    "title": "Copyleft Cultivars",
+    "section": "Our Work",
+    "text": "Our Work\n\n\nFreedom Bag Tag\nA collaboratively created seed-packet label that keeps seeds and their future generations free to save, replant, share, and breed.\nLearn More →\n\n\nRegenerative Relations Initiative\nRelationship-based collaboration with land-based communities on land stewardship, conservation, environmental restoration, and data governance.\nLearn More →\n\n\nGenomic Galaxy\nA shared commons in development for newly bred plant varieties, fostering resiliency and adaptability while protecting plants and plant relations for research and future generations.\n\n\nRegenerative Agriculture Assistant\nA free multilingual chatbot offering regenerative agricultural knowledge, including guidance on natural traditional farming practices and soil health.\nLearn More →"
+  },
+  {
+    "objectID": "index.html#why-this-work-matters-now",
+    "href": "index.html#why-this-work-matters-now",
+    "title": "Copyleft Cultivars",
+    "section": "Why this work matters now",
+    "text": "Why this work matters now\nGrowing seasons, rainfall, and pest pressures are shifting faster than most crops can adapt. The varieties that will carry us through, from drought-hardy landraces to plants that rebuild damaged soils, often live in small farms, home gardens, and traditional food systems. Plant genomics can help us understand and breed for resilience. Those tools should strengthen the people who keep these plants alive, and their future generations should stay in the hands of community."
+  },
+  {
+    "objectID": "index.html#grow-the-commons-with-us",
+    "href": "index.html#grow-the-commons-with-us",
+    "title": "Copyleft Cultivars",
+    "section": "Grow the commons with us",
+    "text": "Grow the commons with us\nMonthly supporters keep our tools free for land stewards, farmers, conservationists, researchers, and plant lovers worldwide.\nPatreon"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Announcements, collaborations, and milestones from Copyleft Cultivars. For upcoming and past gatherings, see Events."
+  },
+  {
+    "objectID": "news.html#announcements",
+    "href": "news.html#announcements",
+    "title": "News",
+    "section": "Announcements",
+    "text": "Announcements\n\n\n\n\n\n\nNothing published yet. New announcements appear here first — subscribe to our email updates to hear about them."
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Support",
+    "section": "",
+    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, please email us at copyleftcultivars@gmail.com."
+  },
+  {
+    "objectID": "support.html#donate",
+    "href": "support.html#donate",
+    "title": "Support",
+    "section": "",
+    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, please email us at copyleftcultivars@gmail.com."
+  },
+  {
+    "objectID": "support.html#volunteer",
+    "href": "support.html#volunteer",
+    "title": "Support",
+    "section": "Volunteer",
+    "text": "Volunteer\nJoin our community collaboration.\nWe are seeking genomics experts, lawyers, and nonprofit professionals. Email us at copyleftcultivars@gmail.com and share how you can contribute to our efforts!"
+  },
+  {
+    "objectID": "preservation.html",
+    "href": "preservation.html",
+    "title": "Freedom Bag Tag",
+    "section": "",
+    "text": "Commercial seed packets often come with a “bag tag” that prohibits saving, replanting, or sharing seeds. The Freedom Bag Tag turns that logic around. It is an adhesion contract that takes effect when the packet is opened and is designed to keep the seeds and everything bred from them open to all.\n\n\nOne of Copyleft Cultivars’ primary tools for seed sovereignty is the Freedom Bag Tag. It demonstrates an alternative to restrictive commercial bag tags through an adhesion contract with three binding terms:\n\nNo privatization: Third parties’ use of these seeds or their derivatives may not be restricted through patents, plant breeders’ rights, or other intellectual or industrial property rights.\nThe terms travel with the seed: Any transfer, assignment, or conveyance of the seeds or their derivatives must include these same terms, without exception.\nShared sequencing data: If the resulting material is genetically sequenced, that sequence and relevant supporting data must be submitted to Copyleft Cultivars under a copyleft-type agreement.\n\n\n\n\n\n“Al abrir este paquete de semillas, usted acepta los presentes términos de afirmación de libertad (“los Términos”). Usted tiene la libertad de utilizar estas semillas de libertad afirmada (“las Semillas”) de cualquier forma que elija. Con el fin de preservar estas libertades, usted se obliga a no restringir, por ningún medio de privatización o de apropiación exclusiva de derechos (incluyendo, sin limitación, patentes, derechos de obtentor vegetal, u otros derechos de propiedad intelectual o industrial), el uso que terceros hagan de estas Semillas o de sus derivados, y a incluir los presentes Términos en toda transferencia, cesión o transmisión de estas Semillas o de sus derivados. Para contribuir a la comunidad, usted se obliga a que, en caso de realizarse la secuenciación genética de la totalidad o de una parte del ADN del material vegetal resultante del cultivo de estas Semillas o de sus derivados, dicha secuencia sea remitida a Copyleft Cultivars (una organización sin fines de lucro constituida y domiciliada en el Estado de Oregón, Estados Unidos de América), junto con los datos complementarios pertinentes y el correspondiente acuerdo de tipo copyleft.”\n\n\n\n\n\n“By opening this seed package, you accept these freedom affirmation terms (the “Terms”). You are free to use these freedom-affirmed seeds (the “Seeds”) in any way you choose. In order to preserve these freedoms, you agree not to restrict, by any means of privatization or exclusive appropriation of rights (including, without limitation, patents, plant breeders’ rights, or other intellectual or industrial property rights), the use that third parties make of these Seeds or their derivatives, and to include these Terms in any transfer, assignment, or conveyance of these Seeds or their derivatives. To contribute to the community, you agree that, should the whole or any part of the DNA of the plant material resulting from the cultivation of these Seeds or their derivatives be genetically sequenced, that sequence shall be submitted to Copyleft Cultivars (a nonprofit organization incorporated and domiciled in the State of Oregon, United States of America), together with the relevant supporting data and the corresponding copyleft-type agreement.”\n\n\n\n\nThe Freedom Bag Tag works primarily as a norm-setting instrument, modeled on early open-source software licenses. It communicates clear expectations and discourages privatization through reputation and transparency, whether or not every clause would hold up in formal litigation in a given jurisdiction. Anyone can use the Freedom Bag Tag on seed packets for newly bred varieties.\n\n\n\nWe are developing governance protocols for our Genomic Galaxy, where genetic data from Freedom Bag Tag cultivars will be published. We will post further information as this work progresses. In the meantime, here is a snapshot of what to expect when submitting genetic data for a Freedom Bag Tag plant friend.\nA dedicated email address for submissions will be posted here. Once it is available, please email the data in a standard format (such as FASTA, FASTQ, VCF, or an SNP genotyping report) along with the cultivar name. Include the testing lab or platform, the date of testing, and where the seed came from, if known. We will reply with the copyleft-type agreement that accompanies your submission."
+  },
+  {
+    "objectID": "preservation.html#freedom-bag-tag",
+    "href": "preservation.html#freedom-bag-tag",
+    "title": "Freedom Bag Tag",
+    "section": "",
+    "text": "Commercial seed packets often come with a “bag tag” that prohibits saving, replanting, or sharing seeds. The Freedom Bag Tag turns that logic around. It is an adhesion contract that takes effect when the packet is opened and is designed to keep the seeds and everything bred from them open to all.\n\n\nOne of Copyleft Cultivars’ primary tools for seed sovereignty is the Freedom Bag Tag. It demonstrates an alternative to restrictive commercial bag tags through an adhesion contract with three binding terms:\n\nNo privatization: Third parties’ use of these seeds or their derivatives may not be restricted through patents, plant breeders’ rights, or other intellectual or industrial property rights.\nThe terms travel with the seed: Any transfer, assignment, or conveyance of the seeds or their derivatives must include these same terms, without exception.\nShared sequencing data: If the resulting material is genetically sequenced, that sequence and relevant supporting data must be submitted to Copyleft Cultivars under a copyleft-type agreement.\n\n\n\n\n\n“Al abrir este paquete de semillas, usted acepta los presentes términos de afirmación de libertad (“los Términos”). Usted tiene la libertad de utilizar estas semillas de libertad afirmada (“las Semillas”) de cualquier forma que elija. Con el fin de preservar estas libertades, usted se obliga a no restringir, por ningún medio de privatización o de apropiación exclusiva de derechos (incluyendo, sin limitación, patentes, derechos de obtentor vegetal, u otros derechos de propiedad intelectual o industrial), el uso que terceros hagan de estas Semillas o de sus derivados, y a incluir los presentes Términos en toda transferencia, cesión o transmisión de estas Semillas o de sus derivados. Para contribuir a la comunidad, usted se obliga a que, en caso de realizarse la secuenciación genética de la totalidad o de una parte del ADN del material vegetal resultante del cultivo de estas Semillas o de sus derivados, dicha secuencia sea remitida a Copyleft Cultivars (una organización sin fines de lucro constituida y domiciliada en el Estado de Oregón, Estados Unidos de América), junto con los datos complementarios pertinentes y el correspondiente acuerdo de tipo copyleft.”\n\n\n\n\n\n“By opening this seed package, you accept these freedom affirmation terms (the “Terms”). You are free to use these freedom-affirmed seeds (the “Seeds”) in any way you choose. In order to preserve these freedoms, you agree not to restrict, by any means of privatization or exclusive appropriation of rights (including, without limitation, patents, plant breeders’ rights, or other intellectual or industrial property rights), the use that third parties make of these Seeds or their derivatives, and to include these Terms in any transfer, assignment, or conveyance of these Seeds or their derivatives. To contribute to the community, you agree that, should the whole or any part of the DNA of the plant material resulting from the cultivation of these Seeds or their derivatives be genetically sequenced, that sequence shall be submitted to Copyleft Cultivars (a nonprofit organization incorporated and domiciled in the State of Oregon, United States of America), together with the relevant supporting data and the corresponding copyleft-type agreement.”\n\n\n\n\nThe Freedom Bag Tag works primarily as a norm-setting instrument, modeled on early open-source software licenses. It communicates clear expectations and discourages privatization through reputation and transparency, whether or not every clause would hold up in formal litigation in a given jurisdiction. Anyone can use the Freedom Bag Tag on seed packets for newly bred varieties.\n\n\n\nWe are developing governance protocols for our Genomic Galaxy, where genetic data from Freedom Bag Tag cultivars will be published. We will post further information as this work progresses. In the meantime, here is a snapshot of what to expect when submitting genetic data for a Freedom Bag Tag plant friend.\nA dedicated email address for submissions will be posted here. Once it is available, please email the data in a standard format (such as FASTA, FASTQ, VCF, or an SNP genotyping report) along with the cultivar name. Include the testing lab or platform, the date of testing, and where the seed came from, if known. We will reply with the copyleft-type agreement that accompanies your submission."
+  },
+  {
+    "objectID": "preservation.html#disclaimer",
+    "href": "preservation.html#disclaimer",
+    "title": "Freedom Bag Tag",
+    "section": "Disclaimer",
+    "text": "Disclaimer\n\n\n\n\n\n\nThis page is a summary for informational purposes and does not constitute legal advice. The person who prepared it is not a lawyer. Please consult a legal professional before making any binding decisions.\n\n\n\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "We gather the community around copyleft, open-source plant genetics, and farmer freedom. Upcoming gatherings are listed first; below them is our archive of past events, where you can click through the timeline to read what happened."
+  },
+  {
+    "objectID": "events.html#upcoming-events",
+    "href": "events.html#upcoming-events",
+    "title": "Events",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n\n\n\n\nNo events are scheduled right now. New events are announced on the News page and to our email list first — subscribe to hear about the next one."
+  },
+  {
+    "objectID": "events.html#past-events",
+    "href": "events.html#past-events",
+    "title": "Events",
+    "section": "Past Events",
+    "text": "Past Events\nClick any event in the timeline to read its details.\n\n\n\n\nJanuary 20, 2025 · 6–7 pm PST\n\n\nRegenerative Relations Initiative Informational Webinar\n\n\nLocation: Zoom (link sent upon registration)\n\n\nIndigenous Knowledge Systems have sustained biodiverse ecosystems for millennia through intentional stewardship and deep place-based ecological relationships. The Regenerative Relations Initiative recognizes that Indigenous leadership in food sovereignty, data sovereignty, and land stewardship offers proven pathways toward ecological resilience and cultural revitalization.\n\n\nThis session introduced the initiative and answered questions from communities interested in the inaugural cohort.\n\n\nRead the cohort announcement\n\n\n\n\nDecember 8, 2022 · 10:30 am PST\n\n\nFree the Seeds\n\n\nFormat: Digital ceremonial release event\n\n\nJoin us for this first-of-its-kind digital ceremonial release event!\n\n\nWe released the long-awaited Freedom Bag Tag, a unique and easy-to-use label you can put on new seed packs to legally copyleft-protect them as a public good and ensure all future users that your seeds have freedom of use.\n\n\nThe Freedom Bag Tag was created over the course of nearly two years, including a very lively public collaboration to create the text of this freedom-assuring Bag Tag. This was the first step in our mission to make copyleft and open-source protections available for the community at large and help us unite together as a community.\n\n\nLearn about the Freedom Bag Tag\n\n\n\n\n\nPast Events\n\n\n\n\n Jan 20, 2025 RRI Informational Webinar\n\n\n\n\n Dec 8, 2022 Free the Seeds"
+  },
+  {
+    "objectID": "events.html#subscribe-to-email-updates",
+    "href": "events.html#subscribe-to-email-updates",
+    "title": "Events",
+    "section": "Subscribe to Email Updates",
+    "text": "Subscribe to Email Updates\nBe the first to hear about upcoming events and new announcements.\nSubscribe"
   },
   {
     "objectID": "regenerative-relations-initiative.html",
@@ -105,83 +203,6 @@
     "text": "Get in touch\nCommunities and organizations interested in building a relationship with us can reach the RRI team at copyleftcultivars@gmail.com."
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "We gather the community around copyleft, open-source plant genetics, and farmer freedom. Upcoming gatherings are listed first; below them is our archive of past events, where you can click through the timeline to read what happened."
-  },
-  {
-    "objectID": "events.html#upcoming-events",
-    "href": "events.html#upcoming-events",
-    "title": "Events",
-    "section": "Upcoming Events",
-    "text": "Upcoming Events\n\n\n\n\n\n\nNo events are scheduled right now. New events are announced on the News page and to our email list first — subscribe to hear about the next one."
-  },
-  {
-    "objectID": "events.html#past-events",
-    "href": "events.html#past-events",
-    "title": "Events",
-    "section": "Past Events",
-    "text": "Past Events\nClick any event in the timeline to read its details.\n\n\n\n\nJanuary 20, 2025 · 6–7 pm PST\n\n\nRegenerative Relations Initiative Informational Webinar\n\n\nLocation: Zoom (link sent upon registration)\n\n\nIndigenous Knowledge Systems have sustained biodiverse ecosystems for millennia through intentional stewardship and deep place-based ecological relationships. The Regenerative Relations Initiative recognizes that Indigenous leadership in food sovereignty, data sovereignty, and land stewardship offers proven pathways toward ecological resilience and cultural revitalization.\n\n\nThis session introduced the initiative and answered questions from communities interested in the inaugural cohort.\n\n\nRead the cohort announcement\n\n\n\n\nDecember 8, 2022 · 10:30 am PST\n\n\nFree the Seeds\n\n\nFormat: Digital ceremonial release event\n\n\nJoin us for this first-of-its-kind digital ceremonial release event!\n\n\nWe released the long-awaited Freedom Bag Tag, a unique and easy-to-use label you can put on new seed packs to legally copyleft-protect them as a public good and ensure all future users that your seeds have freedom of use.\n\n\nThe Freedom Bag Tag was created over the course of nearly two years, including a very lively public collaboration to create the text of this freedom-assuring Bag Tag. This was the first step in our mission to make copyleft and open-source protections available for the community at large and help us unite together as a community.\n\n\nLearn about the Freedom Bag Tag\n\n\n\n\n\nPast Events\n\n\n\n\n Jan 20, 2025 RRI Informational Webinar\n\n\n\n\n Dec 8, 2022 Free the Seeds"
-  },
-  {
-    "objectID": "events.html#subscribe-to-email-updates",
-    "href": "events.html#subscribe-to-email-updates",
-    "title": "Events",
-    "section": "Subscribe to Email Updates",
-    "text": "Subscribe to Email Updates\nBe the first to hear about upcoming events and new announcements.\nSubscribe"
-  },
-  {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Support",
-    "section": "",
-    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, please email us at copyleftcultivars@gmail.com."
-  },
-  {
-    "objectID": "support.html#donate",
-    "href": "support.html#donate",
-    "title": "Support",
-    "section": "",
-    "text": "Your financial contribution is what makes this possible.\nTo date, we are 100% crowdfunded, and we rely on YOU and generous people like you to make this project work. We very much appreciate the help because we are a small (and dedicated) of-the-community-for-the-community collaboration, and we depend on community support to achieve our mission.\nTo donate to Copyleft Cultivars, please email us at copyleftcultivars@gmail.com."
-  },
-  {
-    "objectID": "support.html#volunteer",
-    "href": "support.html#volunteer",
-    "title": "Support",
-    "section": "Volunteer",
-    "text": "Volunteer\nJoin our community collaboration.\nWe are seeking genomics experts, lawyers, and nonprofit professionals. Email us at copyleftcultivars@gmail.com and share how you can contribute to our efforts!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Copyleft Cultivars",
-    "section": "",
-    "text": "Copyleft Cultivars logo\n\n\n\nCopyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity."
-  },
-  {
-    "objectID": "index.html#our-work",
-    "href": "index.html#our-work",
-    "title": "Copyleft Cultivars",
-    "section": "Our Work",
-    "text": "Our Work\n\n\nFreedom Bag Tag\nA collaboratively created seed-packet label that keeps seeds and their future generations free to save, replant, share, and breed.\nLearn More →\n\n\nRegenerative Relations Initiative\nRelationship-based collaboration with land-based communities on land stewardship, conservation, environmental restoration, and data governance.\nLearn More →\n\n\nGenomic Galaxy\nA shared commons in development for newly bred plant varieties, fostering resiliency and adaptability while protecting plants and plant relations for research and future generations.\n\n\nRegenerative Agriculture Assistant\nA free multilingual chatbot offering regenerative agricultural knowledge, including guidance on natural traditional farming practices and soil health.\nLearn More →"
-  },
-  {
-    "objectID": "index.html#why-this-work-matters-now",
-    "href": "index.html#why-this-work-matters-now",
-    "title": "Copyleft Cultivars",
-    "section": "Why this work matters now",
-    "text": "Why this work matters now\nGrowing seasons, rainfall, and pest pressures are shifting faster than most crops can adapt. The varieties that will carry us through, from drought-hardy landraces to plants that rebuild damaged soils, often live in small farms, home gardens, and traditional food systems. Plant genomics can help us understand and breed for resilience. Those tools should strengthen the people who keep these plants alive, and their future generations should stay in the hands of community."
-  },
-  {
-    "objectID": "index.html#grow-the-commons-with-us",
-    "href": "index.html#grow-the-commons-with-us",
-    "title": "Copyleft Cultivars",
-    "section": "Grow the commons with us",
-    "text": "Grow the commons with us\nMonthly supporters keep our tools free for land stewards, farmers, conservationists, researchers, and plant lovers worldwide.\nPatreon"
-  },
-  {
     "objectID": "genomic-galaxy.html",
     "href": "genomic-galaxy.html",
     "title": "Genomic Galaxy",
@@ -208,61 +229,5 @@
     "title": "Genomic Galaxy",
     "section": "Join the Genomic Galaxy",
     "text": "Join the Genomic Galaxy\nWe are building the infrastructure, data governance frameworks, and bioinformatics tools to honor those who contribute to the collective knowledge system. We invite you to join us!\n\nContact us\nFor general inquiries, email copyleftcultivars@gmail.com.\n\n\nBe an early contributor\nBreeders, seed savers, and restoration practitioners with a new or locally adapted variety can reach out now to be among the first contributors when the Genomic Galaxy opens. Sequence data submitted for Freedom Bag Tag cultivars will help form its foundation. Contact us to get involved."
-  },
-  {
-    "objectID": "preservation.html",
-    "href": "preservation.html",
-    "title": "Freedom Bag Tag",
-    "section": "",
-    "text": "Commercial seed packets often come with a “bag tag” that prohibits saving, replanting, or sharing seeds. The Freedom Bag Tag turns that logic around. It is an adhesion contract that takes effect when the packet is opened and is designed to keep the seeds and everything bred from them open to all.\n\n\nOne of Copyleft Cultivars’ primary tools for seed sovereignty is the Freedom Bag Tag. It demonstrates an alternative to restrictive commercial bag tags through an adhesion contract with three binding terms:\n\nNo privatization: Third parties’ use of these seeds or their derivatives may not be restricted through patents, plant breeders’ rights, or other intellectual or industrial property rights.\nThe terms travel with the seed: Any transfer, assignment, or conveyance of the seeds or their derivatives must include these same terms, without exception.\nShared sequencing data: If the resulting material is genetically sequenced, that sequence and relevant supporting data must be submitted to Copyleft Cultivars under a copyleft-type agreement.\n\n\n\n\n\n“Al abrir este paquete de semillas, usted acepta los presentes términos de afirmación de libertad (“los Términos”). Usted tiene la libertad de utilizar estas semillas de libertad afirmada (“las Semillas”) de cualquier forma que elija. Con el fin de preservar estas libertades, usted se obliga a no restringir, por ningún medio de privatización o de apropiación exclusiva de derechos (incluyendo, sin limitación, patentes, derechos de obtentor vegetal, u otros derechos de propiedad intelectual o industrial), el uso que terceros hagan de estas Semillas o de sus derivados, y a incluir los presentes Términos en toda transferencia, cesión o transmisión de estas Semillas o de sus derivados. Para contribuir a la comunidad, usted se obliga a que, en caso de realizarse la secuenciación genética de la totalidad o de una parte del ADN del material vegetal resultante del cultivo de estas Semillas o de sus derivados, dicha secuencia sea remitida a Copyleft Cultivars (una organización sin fines de lucro constituida y domiciliada en el Estado de Oregón, Estados Unidos de América), junto con los datos complementarios pertinentes y el correspondiente acuerdo de tipo copyleft.”\n\n\n\n\n\n“By opening this seed package, you accept these freedom affirmation terms (the “Terms”). You are free to use these freedom-affirmed seeds (the “Seeds”) in any way you choose. In order to preserve these freedoms, you agree not to restrict, by any means of privatization or exclusive appropriation of rights (including, without limitation, patents, plant breeders’ rights, or other intellectual or industrial property rights), the use that third parties make of these Seeds or their derivatives, and to include these Terms in any transfer, assignment, or conveyance of these Seeds or their derivatives. To contribute to the community, you agree that, should the whole or any part of the DNA of the plant material resulting from the cultivation of these Seeds or their derivatives be genetically sequenced, that sequence shall be submitted to Copyleft Cultivars (a nonprofit organization incorporated and domiciled in the State of Oregon, United States of America), together with the relevant supporting data and the corresponding copyleft-type agreement.”\n\n\n\n\nThe Freedom Bag Tag works primarily as a norm-setting instrument, modeled on early open-source software licenses. It communicates clear expectations and discourages privatization through reputation and transparency, whether or not every clause would hold up in formal litigation in a given jurisdiction. Anyone can use the Freedom Bag Tag on seed packets for newly bred varieties.\n\n\n\nWe are developing governance protocols for our Genomic Galaxy, where genetic data from Freedom Bag Tag cultivars will be published. We will post further information as this work progresses. In the meantime, here is a snapshot of what to expect when submitting genetic data for a Freedom Bag Tag plant friend.\nA dedicated email address for submissions will be posted here. Once it is available, please email the data in a standard format (such as FASTA, FASTQ, VCF, or an SNP genotyping report) along with the cultivar name. Include the testing lab or platform, the date of testing, and where the seed came from, if known. We will reply with the copyleft-type agreement that accompanies your submission."
-  },
-  {
-    "objectID": "preservation.html#freedom-bag-tag",
-    "href": "preservation.html#freedom-bag-tag",
-    "title": "Freedom Bag Tag",
-    "section": "",
-    "text": "Commercial seed packets often come with a “bag tag” that prohibits saving, replanting, or sharing seeds. The Freedom Bag Tag turns that logic around. It is an adhesion contract that takes effect when the packet is opened and is designed to keep the seeds and everything bred from them open to all.\n\n\nOne of Copyleft Cultivars’ primary tools for seed sovereignty is the Freedom Bag Tag. It demonstrates an alternative to restrictive commercial bag tags through an adhesion contract with three binding terms:\n\nNo privatization: Third parties’ use of these seeds or their derivatives may not be restricted through patents, plant breeders’ rights, or other intellectual or industrial property rights.\nThe terms travel with the seed: Any transfer, assignment, or conveyance of the seeds or their derivatives must include these same terms, without exception.\nShared sequencing data: If the resulting material is genetically sequenced, that sequence and relevant supporting data must be submitted to Copyleft Cultivars under a copyleft-type agreement.\n\n\n\n\n\n“Al abrir este paquete de semillas, usted acepta los presentes términos de afirmación de libertad (“los Términos”). Usted tiene la libertad de utilizar estas semillas de libertad afirmada (“las Semillas”) de cualquier forma que elija. Con el fin de preservar estas libertades, usted se obliga a no restringir, por ningún medio de privatización o de apropiación exclusiva de derechos (incluyendo, sin limitación, patentes, derechos de obtentor vegetal, u otros derechos de propiedad intelectual o industrial), el uso que terceros hagan de estas Semillas o de sus derivados, y a incluir los presentes Términos en toda transferencia, cesión o transmisión de estas Semillas o de sus derivados. Para contribuir a la comunidad, usted se obliga a que, en caso de realizarse la secuenciación genética de la totalidad o de una parte del ADN del material vegetal resultante del cultivo de estas Semillas o de sus derivados, dicha secuencia sea remitida a Copyleft Cultivars (una organización sin fines de lucro constituida y domiciliada en el Estado de Oregón, Estados Unidos de América), junto con los datos complementarios pertinentes y el correspondiente acuerdo de tipo copyleft.”\n\n\n\n\n\n“By opening this seed package, you accept these freedom affirmation terms (the “Terms”). You are free to use these freedom-affirmed seeds (the “Seeds”) in any way you choose. In order to preserve these freedoms, you agree not to restrict, by any means of privatization or exclusive appropriation of rights (including, without limitation, patents, plant breeders’ rights, or other intellectual or industrial property rights), the use that third parties make of these Seeds or their derivatives, and to include these Terms in any transfer, assignment, or conveyance of these Seeds or their derivatives. To contribute to the community, you agree that, should the whole or any part of the DNA of the plant material resulting from the cultivation of these Seeds or their derivatives be genetically sequenced, that sequence shall be submitted to Copyleft Cultivars (a nonprofit organization incorporated and domiciled in the State of Oregon, United States of America), together with the relevant supporting data and the corresponding copyleft-type agreement.”\n\n\n\n\nThe Freedom Bag Tag works primarily as a norm-setting instrument, modeled on early open-source software licenses. It communicates clear expectations and discourages privatization through reputation and transparency, whether or not every clause would hold up in formal litigation in a given jurisdiction. Anyone can use the Freedom Bag Tag on seed packets for newly bred varieties.\n\n\n\nWe are developing governance protocols for our Genomic Galaxy, where genetic data from Freedom Bag Tag cultivars will be published. We will post further information as this work progresses. In the meantime, here is a snapshot of what to expect when submitting genetic data for a Freedom Bag Tag plant friend.\nA dedicated email address for submissions will be posted here. Once it is available, please email the data in a standard format (such as FASTA, FASTQ, VCF, or an SNP genotyping report) along with the cultivar name. Include the testing lab or platform, the date of testing, and where the seed came from, if known. We will reply with the copyleft-type agreement that accompanies your submission."
-  },
-  {
-    "objectID": "preservation.html#disclaimer",
-    "href": "preservation.html#disclaimer",
-    "title": "Freedom Bag Tag",
-    "section": "Disclaimer",
-    "text": "Disclaimer\n\n\n\n\n\n\nThis page is a summary for informational purposes and does not constitute legal advice. The person who prepared it is not a lawyer. Please consult a legal professional before making any binding decisions.\n\n\n\n\nExcept where otherwise noted, all works and content on this site are licensed under CC-BY-NC-SA 4.0 + Copyleft Cultivars commercial rights and responsibilities."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Announcements, collaborations, and milestones from Copyleft Cultivars. For upcoming and past gatherings, see Events."
-  },
-  {
-    "objectID": "news.html#announcements",
-    "href": "news.html#announcements",
-    "title": "News",
-    "section": "Announcements",
-    "text": "Announcements\n\nCopyleft Cultivars announces a collaboration with [PARTNER NAME]\nSeptember 29, 2026 — A new collaboration is in the works. Partner and full details to follow."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Our Mission",
-    "section": "",
-    "text": "Copyleft Cultivars is a 501(c)(3) nonprofit working to protect, publish, and preserve vulnerable plants by stewarding an ethical, open-access intellectual property commons, developing tools for communities to collect and share plant genomics, and supporting local communities to protect and preserve biodiversity."
-  },
-  {
-    "objectID": "about.html#who-we-are",
-    "href": "about.html#who-we-are",
-    "title": "Our Mission",
-    "section": "Who we are",
-    "text": "Who we are\nOur team includes specialists in bioinformatics, education, data governance, machine learning and language models, community-based participatory research, conservation, ecological restoration, Indigenous Ecological and Cultural Knowledge (ITECK), and intellectual property."
-  },
-  {
-    "objectID": "about.html#the-commons",
-    "href": "about.html#the-commons",
-    "title": "Our Mission",
-    "section": "The Commons",
-    "text": "The Commons\n\nA community commons for vulnerable plants\nHere, “vulnerable” describes wild and cultivated plants whose survival, diversity, or continued care by communities is at risk. These risks can include habitat loss, changing growing conditions, and barriers to saving, sharing, or stewarding seeds and plant knowledge. We use the term broadly, rather than as a formal conservation-status category.\nWe are building a commons where plants and community knowledges meet to co-create a more resilient future. Whether you come from a background in farming, gardening, academia, conservation, ecological restoration, plant breeding, or land stewardship, you are welcome here.\n\n\nSoil Health & Remediation\nHealthy plants need living soil. Our tools and partnerships share practices and knowledges for rebuilding and restoring degraded ground or eroded land.\n\n\nPlant Genomics for Ecological Resilience\nBecause claims of ownership can sever people’s ability to stay in relationship with knowledge and with plant relatives, our open-source tools are designed to strengthen those relationships and keep them intact."
   }
 ]
