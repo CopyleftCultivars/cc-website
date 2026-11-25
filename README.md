@@ -106,6 +106,17 @@ If port 4200 is taken: `quarto preview --port 4444`.
   recompiles the theme from there on every render.
 - `_site/`, `.quarto/`, and `_freeze/` are gitignored; never commit them.
 
+## Facts page
+
+`facts.qmd` shows numbers fetched from public APIs (Hugging Face, GitHub). They come from
+`python3 scripts/build_facts.py`, which writes `data/facts.json` and `_facts_table.md`. Run it
+before rendering to refresh them, and commit both files so an offline render still works.
+If a source can't be reached, the script keeps the last value and marks it. It never fails.
+Never type a number into `facts.qmd` by hand.
+
+To check the numbers in a draft post or grant text against the facts file:
+`python3 scripts/check_claims.py draft.txt`.
+
 ## Publishing
 
 Deployment is automated. Pushing to `main` runs
