@@ -1,0 +1,12 @@
+# Freedom Bag Tag (V.2) print text. Lines starting with # are comments.
+# The front carries the Spanish text and the back carries the English translation.
+# Both must match preservation.qmd word for word; build_tag.py checks this.
+
+== title ==
+Freedom Bag Tag (V.2)
+
+== es ==
+Al abrir este paquete de semillas, usted acepta los presentes términos de afirmación de libertad (“los Términos”). Usted tiene la libertad de utilizar estas semillas de libertad afirmada (“las Semillas”) de cualquier forma que elija. Con el fin de preservar estas libertades, usted se obliga a no restringir, por ningún medio de privatización o de apropiación exclusiva de derechos (incluyendo, sin limitación, patentes, derechos de obtentor vegetal, u otros derechos de propiedad intelectual o industrial), el uso que terceros hagan de estas Semillas o de sus derivados, y a incluir los presentes Términos en toda transferencia, cesión o transmisión de estas Semillas o de sus derivados. Para contribuir a la comunidad, usted se obliga a que, en caso de realizarse la secuenciación genética de la totalidad o de una parte del ADN del material vegetal resultante del cultivo de estas Semillas o de sus derivados, dicha secuencia sea remitida a Copyleft Cultivars (una organización sin fines de lucro constituida y domiciliada en el Estado de Oregón, Estados Unidos de América), junto con los datos complementarios pertinentes y el correspondiente acuerdo de tipo copyleft.
+
+== en ==
+By opening this seed package, you accept these freedom affirmation terms (the “Terms”). You are free to use these freedom-affirmed seeds (the “Seeds”) in any way you choose. In order to preserve these freedoms, you agree not to restrict, by any means of privatization or exclusive appropriation of rights (including, without limitation, patents, plant breeders' rights, or other intellectual or industrial property rights), the use that third parties make of these Seeds or their derivatives, and to include these Terms in any transfer, assignment, or conveyance of these Seeds or their derivatives. To contribute to the community, you agree that, should the whole or any part of the DNA of the plant material resulting from the cultivation of these Seeds or their derivatives be genetically sequenced, that sequence shall be submitted to Copyleft Cultivars (a nonprofit organization incorporated and domiciled in the State of Oregon, United States of America), together with the relevant supporting data and the corresponding copyleft-type agreement.

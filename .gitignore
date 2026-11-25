@@ -32,3 +32,5 @@ NAS_342*.pdf
 _private/
 
 **/*.quarto_ipynb
+tag-print/out/
+tag-print/.venv/
