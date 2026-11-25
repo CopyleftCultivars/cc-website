@@ -1,0 +1,20 @@
+---
+title: "Facts and numbers"
+---
+
+## What this page is {#about-these-numbers}
+
+Every number on this page is fetched from a public source when the site is built, and
+each one links to where it came from. If you're writing about Copyleft Cultivars, copy
+figures from here rather than from older posts.
+
+Downloads count how many times files were fetched from Hugging Face. They are not a count
+of people, since one person can download the same files many times and automated systems
+download them too.
+
+## The numbers {#the-numbers}
+
+{{< include _facts_table.md >}}
+
+A value marked "could not refresh" means its source didn't answer during the last build,
+so the page shows the last number it did get.

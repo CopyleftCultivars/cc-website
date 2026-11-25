@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-11-25T09:02:18+00:00",
+  "facts": {
+    "hf_models": {
+      "label": "Public models on Hugging Face",
+      "value": 15,
+      "source_url": "https://huggingface.co/CopyleftCultivars",
+      "field": "count of /api/models?author=",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "hf_datasets": {
+      "label": "Public datasets on Hugging Face",
+      "value": 10,
+      "source_url": "https://huggingface.co/CopyleftCultivars",
+      "field": "count of /api/datasets?author=",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "hf_downloads_all_time": {
+      "label": "Downloads of those models and datasets, all time",
+      "value": 28661,
+      "source_url": "https://huggingface.co/CopyleftCultivars",
+      "field": "sum of downloadsAllTime",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "hf_downloads_30d": {
+      "label": "Downloads of those models and datasets, last 30 days",
+      "value": 2544,
+      "source_url": "https://huggingface.co/CopyleftCultivars",
+      "field": "sum of downloads",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "hf_top_dataset": {
+      "label": "Most-downloaded dataset, all time",
+      "value": {
+        "name": "Agriculture-Agent-RL-Training-Data",
+        "downloads_all_time": 14832
+      },
+      "source_url": "https://huggingface.co/datasets/CopyleftCultivars/Agriculture-Agent-RL-Training-Data",
+      "field": "max downloadsAllTime over datasets",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "hf_followers": {
+      "label": "Followers of the Hugging Face organization",
+      "value": 17,
+      "source_url": "https://huggingface.co/CopyleftCultivars",
+      "field": "numFollowers",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "gh_public_repos": {
+      "label": "Public repositories on GitHub",
+      "value": 12,
+      "source_url": "https://github.com/CopyleftCultivars",
+      "field": "public_repos",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "mcp_tools": {
+      "label": "Tools in Cultivars MCP",
+      "value": 35,
+      "source_url": "https://github.com/CopyleftCultivars/cultivars-mcp/blob/main/server.py",
+      "field": "count of @mcp.tool in server.py",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "mcp_unit_tests": {
+      "label": "Unit tests in Cultivars MCP",
+      "value": 172,
+      "source_url": "https://github.com/CopyleftCultivars/cultivars-mcp/blob/main/tests/test_server.py",
+      "field": "count of def test_ in tests/test_server.py",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "mcp_ci": {
+      "label": "Cultivars MCP tests on the main branch, latest CI run",
+      "value": {
+        "conclusion": "success",
+        "html_url": "https://github.com/CopyleftCultivars/cultivars-mcp/actions/runs/44988569657",
+        "updated_at": "2026-11-22T05:15:40Z"
+      },
+      "source_url": "https://github.com/CopyleftCultivars/cultivars-mcp/actions/runs/44988569657",
+      "field": "conclusion of the latest completed ci.yml run on main",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "mcp_data_sources": {
+      "label": "Public databases Cultivars MCP works with",
+      "value": [
+        "Ensembl Plants",
+        "UniProt",
+        "Europe PMC",
+        "STRING-db",
+        "Medicinal Genomics Kannapedia",
+        "1001 Genomes Project",
+        "3K Rice Genomes Project",
+        "Plant Reactome",
+        "MaizeGDB",
+        "GRIN-Global"
+      ],
+      "source_url": "https://github.com/CopyleftCultivars/cultivars-mcp#data-sources",
+      "field": "bulleted names under ## Data sources in README.md",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "updated_cultivars_mcp": {
+      "label": "Cultivars MCP code, last updated",
+      "value": "2026-11-22",
+      "source_url": "https://github.com/CopyleftCultivars/cultivars-mcp",
+      "field": "pushed_at",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "updated_agri_vision_detector": {
+      "label": "AgriVision plant-health detector model, last updated",
+      "value": "2026-11-09",
+      "source_url": "https://huggingface.co/CopyleftCultivars/agri-vision-detector",
+      "field": "lastModified",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "updated_agri_vision_space": {
+      "label": "AgriVision demo Space, last updated",
+      "value": "2026-11-09",
+      "source_url": "https://huggingface.co/spaces/CopyleftCultivars/agri-vision",
+      "field": "lastModified",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    },
+    "updated_farming_model": {
+      "label": "Natural farming model (Qwen3.5 2B, v5), last updated",
+      "value": "2026-11-04",
+      "source_url": "https://huggingface.co/CopyleftCultivars/qwen3.5-2b-natural-farming-v5",
+      "field": "lastModified",
+      "fetched_at": "2026-11-25T09:02:18+00:00"
+    }
+  }
+}
