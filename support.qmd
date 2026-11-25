@@ -18,6 +18,15 @@ To donate to Copyleft Cultivars, please email us at
 
 **Join our community collaboration.**
 
-We are seeking genomics experts, lawyers, and nonprofit professionals. Email us at
-[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com) and share how you can
-contribute to our efforts!
+We need people who write code, people who can check plant and trait data against
+published sources, people who translate between English and Spanish, and growers who
+keep field notes. We are also seeking genomics experts, lawyers, and nonprofit
+professionals.
+
+Small first tasks, each sized for an evening, are listed as "good first issue" on
+[Cultivars MCP on GitHub](https://github.com/CopyleftCultivars/cultivars-mcp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+Each one says which file to change, how to test it, and what done looks like.
+
+For anything else, email us at
+[copyleftcultivars@gmail.com](mailto:copyleftcultivars@gmail.com) and tell us how you'd
+like to help.
