@@ -1,5 +1,8 @@
 ---
 title: "Freedom Bag Tag"
+aliases:
+  - tag.html
+  - seeds.html
 ---
 
 ## Keep seeds free for future generations {#freedom-bag-tag}
@@ -8,6 +11,12 @@ Commercial seed packets often come with a “bag tag” that prohibits saving,
 replanting, or sharing seeds. The Freedom Bag Tag turns that logic around. It is
 an adhesion contract that takes effect when the packet is opened and is designed
 to keep the seeds and everything bred from them open to all.
+
+### If your tag shows a different web address {#old-tag-address}
+
+We no longer control the web address printed on our older tags, so please don't
+send data or messages there. Our website is copyleftcultivars.org, and you can
+reach us at copyleftcultivars@gmail.com.
 
 ### The Freedom Bag Tag (V.2)
 
@@ -76,6 +85,9 @@ available, please email the data in a standard format (such as FASTA, FASTQ, VCF
 or an SNP genotyping report) along with the cultivar name. Include the testing
 lab or platform, the date of testing, and where the seed came from, if known. We
 will reply with the copyleft-type agreement that accompanies your submission.
+
+Please don't send personal data about other people. Please don't send knowledge
+or material that belongs to a community unless that community has agreed to it.
 
 ## Disclaimer
 
