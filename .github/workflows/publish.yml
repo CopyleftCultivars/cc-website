@@ -2,6 +2,9 @@ on:
   workflow_dispatch:
   push:
     branches: main
+  schedule:
+    # Mondays 14:00 UTC: rebuild so the Facts page picks up fresh numbers.
+    - cron: "0 14 * * 1"
 
 name: Quarto Publish
 
@@ -16,6 +19,11 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Refresh facts page numbers
+        if: hashFiles('scripts/build_facts.py') != ''
+        continue-on-error: true
+        run: python3 scripts/build_facts.py
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
